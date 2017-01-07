@@ -666,9 +666,9 @@
           "title": "Subscribe to get a free trial",
           "subtitle": "We will contact you shortly on this address",
           "form": {
-            "action": "shubham@totalcloud.io",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for reaching out. We will contact you shortly"
             },
             "fields": {
               "name": {
@@ -1169,7 +1169,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_11.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -1459,7 +1459,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_10.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -1751,7 +1751,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_8.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -2040,7 +2040,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_5.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -2592,7 +2592,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_3.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -2853,10 +2853,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-170x128-4.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_16.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -3532,7 +3532,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_3.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -3794,7 +3794,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_8.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
@@ -3921,7 +3921,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_14.png",
               "height": 128,
               "alt": "Totalcloud.io",
-              "link": "#top",
+              "link": "index.html",
               "title": "Totalcloud",
               "linkInNewWindow": false
             },
