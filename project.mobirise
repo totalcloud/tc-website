@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "terms.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 89,
+    "uniqCompNum": 124,
     "versionPublish": "3.10.5",
     "publishType": "local",
     "publishPath": "file:///Users/Pradeep/code/publish/website3",
@@ -78,7 +78,7 @@
           },
           "title": "Visual and Interactive Management of Cloud<br>",
           "text": "Next-Gen Interface that's closer to human imagination.<br>Currently supporting AWS",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">SIGNUP FOR TOTALCLOUD</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Try Now</a> "
         },
         {
           "_styles": {
@@ -164,7 +164,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -528,6 +528,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -558,7 +563,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -590,8 +595,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -644,19 +649,19 @@
           },
           "_anchor": "form1-12",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "Subscribe to get a free trial",
           "subtitle": "We will contact you shortly on this address",
@@ -744,17 +749,17 @@
           "_name": "menu",
           "_anchor": "menu-z",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -773,7 +778,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -785,13 +790,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
         }
@@ -886,7 +891,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -984,6 +989,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -1014,7 +1024,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1046,8 +1056,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -1170,7 +1180,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -1269,6 +1279,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -1299,7 +1314,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1331,8 +1346,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -1455,7 +1470,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -1556,6 +1571,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -1586,7 +1606,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1618,8 +1638,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -1713,17 +1733,17 @@
           "_name": "menu",
           "_anchor": "menu-1e",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1742,7 +1762,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -1770,24 +1790,24 @@
           },
           "_anchor": "header2-1f",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": false,
             "imageSize": "65",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-76.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.3,
             "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.3
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -1825,13 +1845,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
         },
@@ -1840,18 +1860,23 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -1870,7 +1895,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1902,8 +1927,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -2026,7 +2051,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -2124,6 +2149,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -2154,7 +2184,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2186,8 +2216,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -2309,7 +2339,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -2383,6 +2413,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -2413,7 +2448,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2445,8 +2480,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -2568,7 +2603,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -2642,6 +2677,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -2672,7 +2712,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2704,8 +2744,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -2827,7 +2867,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -2901,6 +2941,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -2931,7 +2976,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2963,8 +3008,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -3120,7 +3165,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -3147,6 +3192,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts3-28",
           "_params": {
             "paddingTop": 3,
@@ -3177,7 +3227,7 @@
               "size": 0
             }
           },
-          "text1": "We are here&nbsp;",
+          "text1": "&nbsp;",
           "media1": {
             "iconFont": {
               "active": true,
@@ -3209,8 +3259,8 @@
           },
           "text4": "cloud@totalcloud.io",
           "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"#\">T</a>erms and conditions</li><li><a class=\"text-white\" href=\"#\">P</a>rivacy Policies</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>About</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Resources<br><br>Why<br><br>Vision<br><br>Twiiter",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
           "form": {
             "title": "MESSAGE",
             "action": "cloud@totalcloud.io",
@@ -3332,7 +3382,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -3400,6 +3450,1277 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "About",
+        "meta_descr": "Vision"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2m",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_3.png",
+              "height": 128,
+              "alt": "Totalcloud.io",
+              "link": "#top",
+              "title": "Totalcloud",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-reserve-wpyap0tyq3melk0krbyn-lagunahike-jpg-2000x1250.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Vision",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>TotalCloud is a foray in creating the virtual world for cloud infrastructure. We are building the next generation platform similar to a virtual game to visualize and manage your cloud infrastructure.With growing number of cloud service providers, the complexity involved in managing your infrastructure and optimizing costs will be the major concern. We at totalcloud are trying to address this concern so that businesses can focus more on their business goals.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts3-2q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "&nbsp;",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+91 9986136083",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "cloud@totalcloud.io",
+          "title1": "Support",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "cloud@totalcloud.io",
+            "alerts": {
+              "success": "Thanks for reaching out. We'll get back to you shortly"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2r",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_8.png",
+              "height": 128,
+              "alt": "Totalcloud.io",
+              "link": "#top",
+              "title": "Totalcloud",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2z",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        }
+      ]
+    },
+    "download.html": {
+      "settings": {
+        "title": "Download"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-30",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_14.png",
+              "height": 128,
+              "alt": "Totalcloud.io",
+              "link": "#top",
+              "title": "Totalcloud",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-31",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-16.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Downloads",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>WINDOWS</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_win_x86_64.zip\">download</a></p><p><br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MAC</b> <b>OSX</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_mac_x86_64.zip\">download</a></p><p><br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LINUX</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_linux_x86_64.tar.gz\">download</a></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-33",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts3-34",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "&nbsp;",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+91 9986136083",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "cloud@totalcloud.io",
+          "title1": "Support",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "cloud@totalcloud.io",
+            "alerts": {
+              "success": "Thanks for reaching out. We'll get back to you shortly"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "title": "Totalcloud",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "20px",
+              "color": "#f3c649"
+            }
+          },
+          "_anchor": "header1-35",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pi-2000x1118.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Visual and Interactive Management of Cloud<br>",
+          "text": "Next-Gen Interface that's closer to human imagination.<br>Currently supporting AWS",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Try Now</a> "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-36",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128.png",
+              "height": 128,
+              "alt": "Totalcloud.io",
+              "link": "index.html",
+              "title": "Totalcloud",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\" aria-expanded=\"false\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cost.html\">Cost</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-usage-efficiency.html\">Usage Efficency</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-cloud-operations.html\">Cloud Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-realtime-inventory.html\">Realtime Inventory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"solution-monitoring.html\">Monitoring</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Terms and Conditions</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-37",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "<span style=\"font-weight: normal;\">USE </span><span style=\"font-weight: normal;\">CASES</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-38",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cm1-1400x777-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Cost Management",
+          "text": "Dashboards/reports are slow and don't keep up with changing cloud environments.<br>​<br>Visualize all your cost  right on top your inventory and take action<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-39",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ru1-1400x780-71.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><span style=\"color: inherit; line-height: 1.1;\">Resource utilisation</span><br></div>",
+          "text": "A static report on a constantly changing cloud environment is not going to cut it.<br>​<br>Analyze the usages in real time<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-3a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/oa1-1400x787-75.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Operational Agility",
+          "text": "All suggestions and no operations make cloud mangement a dull place.<br>​<br>Act on rogue resources, manage other critical activites in a single interface.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-3b",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rt1-1400x781-83.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Realtime inventory",
+          "text": "A picture is worth a thousand words and a video is even better.<br> <br>You have the right to know your cloud setup anytime you want and anyway you want<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-3c",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ov1-1400x777-19.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "One view Monitoring",
+          "text": "Instead of using multiple dashboards to correlate metrics across resources.<br>​<br>Use one single view to know what's happening across your whole cloud<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts3-3e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "&nbsp;",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+91 9986136083",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "cloud@totalcloud.io",
+          "title1": "Support",
+          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "cloud@totalcloud.io",
+            "alerts": {
+              "success": "Thanks for reaching out. We'll get back to you shortly"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-3f",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     }
