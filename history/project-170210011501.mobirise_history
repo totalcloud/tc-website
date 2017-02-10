@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 195,
+    "uniqCompNum": 193,
     "versionPublish": "3.11.1",
     "publishType": "local",
     "publishPath": "file:///Users/Pradeep/code/publish/website3",
@@ -172,21 +172,24 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-5d",
+          "_anchor": "header3-57",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Visibility gives you greater control",
-          "meta": "Single platform to manage your entire cloud needs"
+          "title": "",
+          "meta": "Visibility give you greater control"
         },
         {
           "_tags": [
@@ -200,21 +203,33 @@
               "color": "#000000"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "color": "#000000",
-              "text-align": "right"
-            },
-            ".mbr-section-text B": {
-              "color": "#000000",
-              "text-align": "left"
+              "font-size": "23px",
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "text-align": "left"
+            },
+            ".mbr-section-text P": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-text B": {
+              "text-align": "left",
+              "font-size": "17px"
+            },
+            ".mbr-section-text SPAN": {
+              "text-align": "left"
             }
           },
-          "_anchor": "header2-5e",
+          "_anchor": "header2-4z",
           "_params": {
             "imageSize": "50",
             "parallax": true,
@@ -228,7 +243,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.3,
-            "overlayColor": "#6b707e",
+            "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -257,8 +272,8 @@
               "size": 0
             }
           },
-          "title": "Cost Analyzer &amp; Usage Monitoring",
-          "text": "Interactively build your cost perspective. Slice and dice overall costs  in real time. Visualize all costs right on top of the inventory. No need to depend on static dashboard reports. <a href=\"Feature-cost-analyzer.html\">Learn more</a><br><br>Get real-time and historical resource utilization based on various key metrics in a single view. <a href=\"Feature-usage-monitoring.html\">Learn more</a><br>",
+          "title": "",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cost Analyzer and Usage Mon\u001bitoring</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Interactively build your cost perspective. Slice and dice overall costs &nbsp;in real time. Visualize all costs right on top of the inventory. No need to depend on static dashboard reports. </span><a href=\"Feature-cost-analyzer.html\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">Learn more</a></p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Get real-time and historical resource utilization based on various key metrics in a single view. </span><a href=\"Feature-usage-monitoring.html\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">Learn more</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -283,8 +298,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title": {
-              "text-align": "left",
-              "color": "#28324e"
+              "text-align": "left"
             },
             ".mbr-section-text P": {
               "text-align": "left",
@@ -363,8 +377,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title": {
-              "text-align": "left",
-              "color": "#28324e"
+              "text-align": "left"
             },
             ".mbr-section-text P": {
               "text-align": "left"
@@ -490,7 +503,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -562,9 +575,6 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#dfb573"
             }
           },
           "_anchor": "form1-12",
@@ -641,13 +651,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -858,7 +868,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>This privacy policy discloses the security &amp; privacy practices for TotalCloud. This security &amp; privacy policy applies solely to information collected by this software. It will notify you of the following:</p><p>&nbsp;</p><ol><li>What personally identifiable information is collected from you through the website &amp; software, how it is used and with whom it may be shared.</li><li>What choices are available to you regarding the use of your data.</li><li>The security procedures in place to protect the misuse of your information.</li><li>How you can correct any inaccuracies in the information.</li></ol><p>&nbsp;</p><p><b>Information Collection, Use, and Sharing:</b></p><p>&nbsp;</p><p>We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.<span style=\"font-size: 1.07rem; line-height: 1.5;\">Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.</span></p><p>&nbsp;</p><p><b>What information do we collect?</b></p><p>​</p><p>We may collect, store and use the following kinds of personal but anonymous information:</p><ol><li>Information about your device and about your use of TotalCloud app.</li><li>Information relating to any transactions carried out between you and us on or in relation to TotalCloud app., including information relating to any purchases you make of our goods or services.</li><li>Information that you provide to us for the purpose of registering with us.</li><li>Any other information that you choose to send to us.</li></ol><p>&nbsp;</p><p><b>Registration:</b></p><p>&nbsp;</p><p>In order to use TotalCloud effectively, a user must first complete the registration form. During registration a user is required to give certain information (such as email address). This information is used to contact you about further upgrades to our products/services in which you have expressed interest.&nbsp;</p><p>&nbsp;</p><p><b>Security:</b></p><p>&nbsp;</p><p>We take precautions to protect your information. When you submit sensitive information via the software, your information is protected. Wherever we collect sensitive information (such as a secret key), that information is encrypted and transmitted to us in a secure way. All communication from TotalCloud client and TotalCloud servers are over encrypted channels (TLS/SSL) and follows industry best practices and is kept upto date with latest security guidelines.</p><p>&nbsp;</p><p>TotalCloud implements AWS best practices while accessing your account. Cross-Account Access is the preferred route but we also provide the option to use access keys. None of the your AWS data is stored on the server and is only fetched on demand. All your data are permanently deleted from our servers if you delete your TotalCloud account. In such a situation, your AWS data will not be affected.</p><p>&nbsp;</p><p>All credentials and password are uniquely salted and strong hashed and cannot be retrieved by anyone including TotalCloud staff.</p><p>&nbsp;</p><p><b>Cookies:&nbsp;</b></p><p>&nbsp;</p><p>TotalCloud uses “cookies”. A cookie is a piece of data stored on a user’s hard drive to help us improve your user experience. Cookies can enable us to track and target the interests of our users to enhance the user experience of TotalCloud. Usage of a cookie is in no way linked to any personally identifiable information on TotalCloud.</p><p>&nbsp;</p><p><b>Updates:</b></p><p>&nbsp;</p><p>Our Privacy Policy may change from time to time and all updates will be posted on this page.</p>"
+          "text": "<p><br></p><p>This privacy policy discloses the security &amp; privacy practices for TotalCloud. This security &amp; privacy policy applies solely to information collected by this software. It will notify you of the following:</p><p>&nbsp;</p><ol><li>What personally identifiable information is collected from you through the website &amp; software, how it is used and with whom it may be shared.</li><li>What choices are available to you regarding the use of your data.</li><li>The security procedures in place to protect the misuse of your information.</li><li>How you can correct any inaccuracies in the information.</li></ol><p>&nbsp;</p><p><b>Information Collection, Use, and Sharing:</b></p><p>&nbsp;</p><p>We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.</p><p>Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.</p><p>&nbsp;</p><p><b>What information do we collect?</b></p><p>​</p><p>We may collect, store and use the following kinds of personal but anonymous information:</p><ol><li>Information about your device and about your use of TotalCloud app.</li><li>Information relating to any transactions carried out between you and us on or in relation to TotalCloud app., including information relating to any purchases you make of our goods or services.</li><li>Information that you provide to us for the purpose of registering with us.</li><li>Any other information that you choose to send to us.</li></ol><p>&nbsp;</p><p><b>Registration:</b></p><p>&nbsp;</p><p>In order to use TotalCloud effectively, a user must first complete the registration form. During registration a user is required to give certain information (such as email address). This information is used to contact you about further upgrades to our products/services in which you have expressed interest.&nbsp;</p><p>&nbsp;</p><p><b>Security:</b></p><p>&nbsp;</p><p>We take precautions to protect your information. When you submit sensitive information via the software, your information is protected. Wherever we collect sensitive information (such as a secret key), that information is encrypted and transmitted to us in a secure way. All communication from TotalCloud client and TotalCloud servers are over encrypted channels (TLS/SSL) and follows industry best practices and is kept upto date with latest security guidelines.</p><p>&nbsp;</p><p>TotalCloud implements AWS best practices while accessing your account. Cross-Account Access is the preferred route but we also provide the option to use access keys. None of the your AWS data is stored on the server and is only fetched on demand. All your data are permanently deleted from our servers if you delete your TotalCloud account. In such a situation, your AWS data will not be affected.</p><p>&nbsp;</p><p>All credentials and password are uniquely salted and strong hashed and cannot be retrieved by anyone including TotalCloud staff.</p><p>&nbsp;</p><p><b>Cookies:&nbsp;</b></p><p>&nbsp;</p><p>TotalCloud uses “cookies”. A cookie is a piece of data stored on a user’s hard drive to help us improve your user experience. Cookies can enable us to track and target the interests of our users to enhance the user experience of TotalCloud. Usage of a cookie is in no way linked to any personally identifiable information on TotalCloud.</p><p>&nbsp;</p><p><b>Updates:</b></p><p>&nbsp;</p><p>Our Privacy Policy may change from time to time and all updates will be posted on this page.</p>"
         },
         {
           "_tags": [
@@ -930,7 +940,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1194,7 +1204,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1282,13 +1292,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1386,7 +1396,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>Please read the following terms and conditions carefully before using this SOFTWARE PRODUCT. Your use, distribution or installation of this copy of TotalCloud indicates your acceptance of this License.</p><p>&nbsp;</p><ul><li>SOFTWARE PRODUCT here means Software, image files, all accompanying files, data and materials received with your order of TotalCloud.</li></ul><p>&nbsp;</p><ul><li>If you do not agree to any of the terms of this License, then do not install,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">distribute or use the SOFTWARE PRODUCT. If you have purchased a single copy from Kandor Soft Labs Private Limited or an authorized distributor, reseller or any retail channel, you may return it unused. No refund or warranty of any kind will be provided by Kandor Soft Labs Private Limited.</span></li></ul><p>&nbsp;</p><ul><li>This SOFTWARE PRODUCT is for personal use only and may be installed and used by on only one computer. Its component parts may not be separated for use on more than one computer. SOFTWARE PRODUCT may be accessed through a network only after obtaining a site license. All components accompanying the software are copyrighted by Kandor Soft Labs Private Limited and may not be taken apart, modified, used or published with other software or means except with the SOFTWARE PRODUCT and may not be distributed or copied in any manner.</li></ul><p>&nbsp;</p><ul><li>This SOFTWARE PRODUCT, all accompanying files, data and materials, are distributed \"AS IS\" and with no warranties of any kind, whether express or implied. The user must assume all risk of using the program. This disclaimer of warranty constitutes an essential part of the agreement.&nbsp;</li></ul><p>&nbsp;</p><ul><li>In no event shall Kandor Soft Labs Private Limited, or its principals, shareholders, officers, employees, affiliates, contractors, subsidiaries, or parent organizations, be liable for any incidental, consequential, punitive or any other damages whatsoever relating to the use of SOFTWARE PRODUCT.</li></ul><p>&nbsp;</p><ul><li>In addition, in no event does Kandor Soft Labs Private Limited authorize you to use this SOFTWARE PRODUCT in applications or systems where SOFTWARE PRODUCT 's failure to perform can reasonably be expected to result in a physical injury, or in loss of life. Any such use by you is entirely at your own risk, and you agree to hold Kandor Soft Labs Private Limited harmless from any claims or losses relating to such unauthorized use.</li></ul><p>&nbsp;</p><p>This Agreement constitutes the entire statement of the Agreement between the parties on the subject matter, and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements. This Agreement shall be governed by the laws of India.</p><p>&nbsp;</p><p>Kandor Soft Labs Private Limited, the owner of the copyright of this SOFTWARE PRODUCT, all of its derivatives,title and accompanying materials are the exclusive property of Kandor Soft Labs Private Limited. All rights of any kind, which are not expressly granted in this License, are entirely and exclusively reserved to and by Kandor Soft Labs Private Limited. You may not rent, lease, transfer, modify, translate, reverse engineer, de-compile, disassemble or create derivative works based on this SOFTWARE PRODUCT. You may not make access to SOFTWARE PRODUCT available to others in connection with a service bureau, application service provider, or similar business, or use this SOFTWARE PRODUCT in a business to provide file compression, decompression, or conversion services to others. There are no third party beneficiaries of any promises, obligations or representations made by&nbsp;</p><p>Kandor Soft Labs Private Limited herein.</p><p>&nbsp;</p><p>You may not disclose to other persons the data or techniques relating to this SOFTWARE PRODUCT that you know or should know that it is a trade secret of the Kandor Soft Labs Private Limited in any manner that will cause damage to Kandor Soft Labs Private Limited.</p><p>&nbsp;</p><p>This SOFTWARE PRODUCT and all services provided may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of your Country, State or City law is strictly prohibited. This includes, but is not limited to: copyrighted material, material we judge to be threatening or obscene, or material protected by trade secret and other statute. You agree to indemnify and hold&nbsp;</p><p>Kandor Soft Labs Private Limited harmless from any claims resulting from the use of this SOFTWARE PRODUCT, which may damage any other party.</p><p><br></p>"
+          "text": "<p><br></p><p>Please read the following terms and conditions carefully before using this SOFTWARE PRODUCT. Your use, distribution or installation of this copy of TotalCloud indicates your acceptance of this License.</p><p>&nbsp;</p><p>SOFTWARE PRODUCT here means Software, image files, all accompanying files, data and materials received with your order of TotalCloud.</p><p>&nbsp;</p><p>If you do not agree to any of the terms of this License, then do not install,&nbsp;</p><p>distribute or use the SOFTWARE PRODUCT. If you have purchased a single copy from Kandor Soft Labs Private Limited or an authorized distributor, reseller or any retail channel, you may return it unused. No refund or warranty of any kind will be provided by Kandor Soft Labs Private Limited.</p><p>&nbsp;</p><p>This SOFTWARE PRODUCT is for personal use only and may be installed and used by on only one computer. Its component parts may not be separated for use on more than one computer. SOFTWARE PRODUCT may be accessed through a network only after obtaining a site license. All components accompanying the software are copyrighted by Kandor Soft Labs Private Limited and may not be taken apart, modified, used or published with other software or means except with the SOFTWARE PRODUCT and may not be distributed or copied in any manner.</p><p>&nbsp;</p><p>This SOFTWARE PRODUCT, all accompanying files, data and materials, are distributed \"AS IS\" and with no warranties of any kind, whether express or implied. The user must assume all risk of using the program. This disclaimer of warranty constitutes an essential part of the agreement.&nbsp;</p><p>&nbsp;</p><p>In no event shall Kandor Soft Labs Private Limited, or its principals, shareholders, officers, employees, affiliates, contractors, subsidiaries, or parent organizations, be liable for any incidental, consequential, punitive or any other damages whatsoever relating to the use of SOFTWARE PRODUCT.</p><p>&nbsp;</p><p>In addition, in no event does Kandor Soft Labs Private Limited authorize you to use this SOFTWARE PRODUCT in applications or systems where SOFTWARE PRODUCT 's failure to perform can reasonably be expected to result in a physical injury, or in loss of life. Any such use by you is entirely at your own risk, and you agree to hold Kandor Soft Labs Private Limited harmless from any claims or losses relating to such unauthorized use.</p><p>&nbsp;</p><p>This Agreement constitutes the entire statement of the Agreement between the parties on the subject matter, and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements. This Agreement shall be governed by the laws of India.</p><p>&nbsp;</p><p>Kandor Soft Labs Private Limited, the owner of the copyright of this SOFTWARE PRODUCT, all of its derivatives,title and accompanying materials are the exclusive property of Kandor Soft Labs Private Limited. All rights of any kind, which are not expressly granted in this License, are entirely and exclusively reserved to and by Kandor Soft Labs Private Limited. You may not rent, lease, transfer, modify, translate, reverse engineer, de-compile, disassemble or create derivative works based on this SOFTWARE PRODUCT. You may not make access to SOFTWARE PRODUCT available to others in connection with a service bureau, application service provider, or similar business, or use this SOFTWARE PRODUCT in a business to provide file compression, decompression, or conversion services to others. There are no third party beneficiaries of any promises, obligations or representations made by&nbsp;</p><p>Kandor Soft Labs Private Limited herein.</p><p>&nbsp;</p><p>You may not disclose to other persons the data or techniques relating to this SOFTWARE PRODUCT that you know or should know that it is a trade secret of the Kandor Soft Labs Private Limited in any manner that will cause damage to Kandor Soft Labs Private Limited.</p><p>&nbsp;</p><p>This SOFTWARE PRODUCT and all services provided may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of your Country, State or City law is strictly prohibited. This includes, but is not limited to: copyrighted material, material we judge to be threatening or obscene, or material protected by trade secret and other statute. You agree to indemnify and hold&nbsp;</p><p>Kandor Soft Labs Private Limited harmless from any claims resulting from the use of this SOFTWARE PRODUCT, which may damage any other party.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1458,7 +1468,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1580,13 +1590,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1709,7 +1719,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1798,13 +1808,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1902,7 +1912,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>TotalCloud is a foray in creating the virtual world for cloud infrastructure. We are building the next generation platform similar to a virtual game to visualize and manage your cloud infrastructure.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>TotalCloud is a foray in creating the virtual world for cloud infrastructure. We are building the next generation platform similar to a virtual game to visualize and manage your cloud infrastructure.With growing number of cloud service providers, the complexity involved in managing your infrastructure and optimizing costs will be the major concern. We at totalcloud are trying to address this concern so that businesses can focus more on their business goals.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -1974,7 +1984,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2062,13 +2072,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2238,7 +2248,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2376,13 +2386,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2462,7 +2472,7 @@
           },
           "_anchor": "header2-3u",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-35.jpg",
@@ -2577,7 +2587,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2715,13 +2725,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2797,7 +2807,7 @@
             },
             ".mbr-section-title": {
               "color": "#28324e",
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-text B": {
               "text-align": "left"
@@ -2808,7 +2818,7 @@
           },
           "_anchor": "header2-3z",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-35.jpg",
@@ -2999,7 +3009,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3137,13 +3147,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3222,7 +3232,7 @@
           },
           "_anchor": "header2-44",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-35.jpg",
@@ -3264,7 +3274,7 @@
             }
           },
           "title": "Cloud Security&nbsp;",
-          "text": "Understand the current security violations in the cloud deployments&nbsp;<br><br>Violations are categoriezed as <br>Access Security<br>Data Security<br>Network Security<br><br>Visualize the impacted resources in real-time and take corrective action",
+          "text": "Understand the current security Violations in the cloud deployments&nbsp;<br><br>Violations are categoriezed as <br>Access Security<br>Data Security<br>Network Security<br><br>Visualize the impacted resources in real-time and take corrective action",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3337,7 +3347,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3475,13 +3485,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3560,7 +3570,7 @@
           },
           "_anchor": "header2-49",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-35.jpg",
@@ -3675,7 +3685,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3779,7 +3789,7 @@
             "showButton": false
           },
           "title": "Cost Analyzer",
-          "text": "<p><b>Interactively visualize all your costs right on top of your Inventory. Slice and dice the overall costs in real time by grouping resources using multiple parameters</b></p>",
+          "text": "<p><b>Interactively visualize all your costs right on top of your cloud Inventory. No need to switch between mulitiple windows. Slice and dice the overall costs in real time by grouping resources using multiple parameters</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -3809,13 +3819,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3892,14 +3902,11 @@
             },
             ".mbr-section-title": {
               "color": "#28324e"
-            },
-            ".mbr-section-text SPAN": {
-              "text-align": "left"
             }
           },
           "_anchor": "header2-17",
           "_params": {
-            "imageSize": "51",
+            "imageSize": "62",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-70.jpg",
@@ -3959,22 +3966,18 @@
               "text-align": "center"
             },
             ".mbr-section-text": {
-              "color": "#232323",
-              "text-align": "right"
+              "color": "#232323"
             },
             ".mbr-section-text B": {
               "color": "#000000"
             },
             ".mbr-section-title": {
               "color": "#28324e"
-            },
-            ".mbr-section-text SPAN": {
-              "text-align": "right"
             }
           },
           "_anchor": "header2-3l",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "62",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-70.jpg",
@@ -4016,7 +4019,7 @@
             }
           },
           "title": "Drill Down View",
-          "text": "Interactively zoom-in to drill down multiple levels and understand costs at each individual resource<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">No more bulky reports and dashboards to understand.</span><b><br></b><br>",
+          "text": "Interactively zoom-in to drill down multiple levels and understand costs at each individual resource level<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">No more bulky reports and dashboard to understand.</span><b><br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -4089,7 +4092,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4198,7 +4201,7 @@
             "showButton": false
           },
           "title": "Usage Monitoring",
-          "text": "<p><b>Monitor your resource utilization based on various key metrics in real time.&nbsp;</b></p>",
+          "text": "<p><b>Monitor your current resources utilization based on various key metrics in real time.&nbsp;</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4228,13 +4231,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4313,7 +4316,7 @@
           },
           "_anchor": "header2-4d",
           "_params": {
-            "imageSize": "49",
+            "imageSize": "62",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-70.jpg",
@@ -4355,7 +4358,7 @@
             }
           },
           "title": "Monitor your resource usage",
-          "text": "A static report on a constantly changing cloud environment does not give a right picture.<br><br>Analyse current and historical resource utilization in a single view<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to change windows. check <a href=\"Feature- Cloud Operation.html\" class=\"text-info\">cloud operations</a><br>",
+          "text": "A static report on a constantly changing cloud environment does not give a right picture.<br><br>Analyse real time and historic usage in a single view<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to change windows. check <a href=\"Feature- Cloud Operation.html\" class=\"text-info\">cloud operations</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -4428,7 +4431,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4567,13 +4570,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4652,7 +4655,7 @@
           },
           "_anchor": "header2-1f",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-76.jpg",
@@ -4767,7 +4770,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4906,13 +4909,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4991,7 +4994,7 @@
           },
           "_anchor": "header2-1i",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-35.jpg",
@@ -5106,7 +5109,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+91 9900080830",
+          "text2": "+91 9986136083",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5281,12 +5284,6 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
-            },
-            "SMALL": {
-              "color": "#28324e"
-            },
-            ".mbr-section-title": {
-              "color": "#28324e"
             }
           },
           "_anchor": "form1-5c",
@@ -5297,7 +5294,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a3a2a2",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
