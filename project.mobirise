@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature-realtime-pricing.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -211,7 +211,8 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5e",
@@ -257,8 +258,8 @@
               "size": 0
             }
           },
-          "title": "Cost Analyzer <br>&amp; Usage Monitoring",
-          "text": "Interactively build your cost perspective. Slice and dice overall costs  in real time. Visualize all costs right on top of the inventory. No need to depend on static dashboard reports. <a href=\"Feature-cost-analyzer.html\">Learn more</a><br><br>Get real-time and historical resource utilization based on various key metrics in a single view. <a href=\"Feature-usage-monitoring.html\">Learn more</a><br>",
+          "title": "Cost Analyzer <br>&amp; Usage Monitoring<br><br>",
+          "text": "Interactively build your cost perspective. Slice and dice overall costs  in real time. Visualize all costs right on top of the inventory. No need<br>to depend on static dashboard reports. <a href=\"Feature-cost-analyzer.html\">Learn more</a><br><br>Get real-time and historical resource utilization based on various key metrics in a single view. <a href=\"Feature-usage-monitoring.html\">Learn more</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
