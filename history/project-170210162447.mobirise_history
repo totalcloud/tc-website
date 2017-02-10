@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature-usage-monitoring.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -4374,7 +4374,7 @@
               "size": 0
             }
           },
-          "title": "Monitor resource usage<br><br><span style=\"font-weight: normal;\">A static report on a constantly changing cloud environment does not give the right picture.</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Analyse current and historical resource utilization in a single view</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operations</a></span></div>",
+          "title": "Monitor resource usage<br><br><span style=\"font-weight: normal;\">A static report on a constantly changing cloud environment does not give the right picture.</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Analyse current and historical resource utilization in a single view</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check cloud operations</span></div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
