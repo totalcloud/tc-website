@@ -71,13 +71,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -99,7 +99,7 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -186,7 +186,7 @@
             "showMeta": true
           },
           "title": "Visibility gives you greater control",
-          "meta": "Single platform to manage your entire cloud needs"
+          "meta": "Single platform to manage and monitor your cloud"
         },
         {
           "_tags": [
@@ -669,7 +669,7 @@
           "_name": "menu",
           "_anchor": "menu-z",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -782,7 +782,7 @@
           "_name": "menu",
           "_anchor": "menu-1l",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1046,7 +1046,7 @@
           "_name": "menu",
           "_anchor": "menu-1s",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1310,7 +1310,7 @@
           "_name": "menu",
           "_anchor": "menu-1x",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1608,7 +1608,7 @@
           "_name": "menu",
           "_anchor": "menu-22",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1826,7 +1826,7 @@
           "_name": "menu",
           "_anchor": "menu-2m",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2090,7 +2090,7 @@
           "_name": "menu",
           "_anchor": "menu-30",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2404,7 +2404,7 @@
           "_name": "menu",
           "_anchor": "menu-3t",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2743,7 +2743,7 @@
           "_name": "menu",
           "_anchor": "menu-3y",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3165,7 +3165,7 @@
           "_name": "menu",
           "_anchor": "menu-43",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3503,7 +3503,7 @@
           "_name": "menu",
           "_anchor": "menu-48",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3837,7 +3837,7 @@
           "_name": "menu",
           "_anchor": "menu-15",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -4256,7 +4256,7 @@
           "_name": "menu",
           "_anchor": "menu-18",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -4595,7 +4595,7 @@
           "_name": "menu",
           "_anchor": "menu-1e",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -4934,7 +4934,7 @@
           "_name": "menu",
           "_anchor": "menu-1h",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -5222,7 +5222,7 @@
           "_name": "menu",
           "_anchor": "menu-59",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#747474",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
