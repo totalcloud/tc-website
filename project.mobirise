@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Features-Insights.html",
+    "currentPage": "Feature-realtime-pricing.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -149,7 +149,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-53.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-99.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -337,7 +337,7 @@
               "size": 0
             }
           },
-          "title": "Security Compliance &amp;<br>Cost Insights",
+          "title": "<br><br><br><br>Security Compliance &amp;<br>Cost Insights",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Secure your cloud infrastructure with continuous monitoring of &nbsp;violations. Mitigate all your secure threats with &nbsp;</span><a href=\"Feature- Security- Compliance.html\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">Learn more</a></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Totalcloud's recommendation engine provides key insights to reduce your AWS costs. No need to worry about the under utilized or unused resources. </span><a href=\"Features-Insights.html\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">Learn more</a></p><p><br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -416,7 +416,7 @@
               "size": 0
             }
           },
-          "title": "Cloud Operations &amp;<br>Automation",
+          "title": "<br><br><br>Cloud Operations &amp;<br>Automation",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Single platform to analyze the cloud resources and take action immediately right there. Reduce the overall debugging and operation time.&nbsp;</span><a href=\"Feature-cost-analyzer.html\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">Learn more</a></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Automate all cloud operations, save time and reduce scripting errors. </span><a href=\"Feature- Automation.html\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">Learn more</a></p><p><br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -2376,13 +2376,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2457,7 +2457,8 @@
               "text-align": "right"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-3u",
@@ -2503,8 +2504,8 @@
               "size": 0
             }
           },
-          "title": "Cloud Operations",
-          "text": "Where you analyse is where you operate<br><br>Save time and effort on operational debugging and cloud operations<br><br>Act on rogue resources, manage other critical activites in a single view<b>.</b>",
+          "title": "Cloud Operations<br><br><br><span style=\"font-weight: normal;\">Where you analyse is where you operate</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Save time and effort on operational debugging and cloud operations</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Act on rogue resources, manage other critical activites in a single pane.</span></div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -2715,13 +2716,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2797,7 +2798,7 @@
             },
             ".mbr-section-title": {
               "color": "#28324e",
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-text B": {
               "text-align": "left"
@@ -2849,8 +2850,8 @@
               "size": 0
             }
           },
-          "title": "Automation",
-          "text": "<span style=\"line-height: 1.5;\">Lower your costs by automating Starting/Stopping of EC2 instances&nbsp;</span><br><br>Automatically create backups and snapshots of your EC2 instances, RDS \u001bdatabases and EBS. Delete old snapshots automatically too.<br><br>No need to write complex scripts and manage them.",
+          "title": "Automation<br><br><span style=\"font-weight: normal;\">Lower your costs by automating Starting/Stopping of resources</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Automatically create backups &nbsp;and get rid of older resources/backups</span></div><br><div><span style=\"font-weight: normal;\">Inter Region backup for Disaster Recovery</span></div><br><div><span style=\"font-weight: normal; line-height: 1.1;\">No need to write complex scripts and manage them.</span><br></div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3137,13 +3138,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3217,7 +3218,8 @@
               "color": "#000000"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-44",
@@ -3263,8 +3265,8 @@
               "size": 0
             }
           },
-          "title": "Cloud Security&nbsp;",
-          "text": "Understand the current security violations in the cloud deployments&nbsp;<br><br>Violations are categoriezed as <br>Access Security<br>Data Security<br>Network Security<br><br>Visualize the impacted resources in real-time and take corrective action",
+          "title": "Cloud Security&nbsp;<br><span style=\"font-weight: normal;\"><br>Understand the current security violations in the cloud deployments&nbsp;</span><div><br></div><div><span style=\"font-weight: normal;\">Visualize the impacted resources in real-time and take corrective action</span></div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3552,10 +3554,12 @@
               "font-size": "17px"
             },
             ".mbr-section-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "right"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-49",
@@ -3601,8 +3605,8 @@
               "size": 0
             }
           },
-          "title": "Cost Insights&nbsp;",
-          "text": "Totalcloud's cost saving engine provides key recommendations on cost leakages and potential savings based on usage<br><br>Get global and data centre level Intelligent cost savings insights in real-time.<br><br>Visualize the impacted resources, compare and contrast with other resources to build a right perspective and take corrective action",
+          "title": "Cost Insights<br><br><span style=\"font-weight: normal;\">Totalcloud's cost saving engine provides key recommendations on cost leakages and potential savings based on usage</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Get global and region level Intelligent cost savings insights in real-time.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Visualize the impacted resources, compare and contrast with other resources to build a right perspective and take corrective action</span>&nbsp;</div>",
+          "text": "<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3809,13 +3813,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3891,10 +3895,17 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             },
             ".mbr-section-text SPAN": {
               "text-align": "left"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "18px"
             }
           },
           "_anchor": "header2-17",
@@ -3940,8 +3951,8 @@
               "size": 0
             }
           },
-          "title": "Top View",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Get bird's eye view of the overall costs by grouping resources using multiple parameters in real time &nbsp;(Ex: by Tag-Value).</span><br><br>Dynamically restructure your view based on grouping parameters.<br><br>Analyze the current costs, yesterday's and projected costs for the time period selected<br><b><br></b><br><b><br>​<br></b><br>",
+          "title": "<br><br><br><br><br>Top View<br><br><span style=\"font-weight: normal;\">Get bird's eye view of the overall costs by grouping resources using multiple parameters in real time  (Ex: by Tag-Value).</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Dynamically restructure your view based on grouping parameters.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Analyze the current costs, yesterday's and projected costs for the time period selected</span></div>",
+          "text": "<br><b><br></b><br><b><br>​<br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3966,10 +3977,14 @@
               "color": "#000000"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             },
             ".mbr-section-text SPAN": {
               "text-align": "right"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "18px"
             }
           },
           "_anchor": "header2-3l",
@@ -4015,8 +4030,8 @@
               "size": 0
             }
           },
-          "title": "Drill Down View",
-          "text": "Interactively zoom-in to drill down multiple levels and understand costs at each individual resource<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">No more bulky reports and dashboards to understand.</span><b><br></b><br>",
+          "title": "Drill Down View<br><br><span style=\"font-weight: normal;\">Interactively zoom-in to drill down multiple levels and understand costs at each individual resource</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">No more bulky reports and dashboards to understand.</span></div>",
+          "text": "<b><br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -4228,13 +4243,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4308,7 +4323,11 @@
               "color": "#000000"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "18px"
             }
           },
           "_anchor": "header2-4d",
@@ -4354,8 +4373,8 @@
               "size": 0
             }
           },
-          "title": "Monitor your resource usage",
-          "text": "A static report on a constantly changing cloud environment does not give a right picture.<br><br>Analyse current and historical resource utilization in a single view<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to change windows. check <a href=\"Feature- Cloud Operation.html\" class=\"text-info\">cloud operations</a><br>",
+          "title": "Monitor resource usage<br><br><span style=\"font-weight: normal;\">A static report on a constantly changing cloud environment does not give the right picture.</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Analyse current and historical resource utilization in a single view</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check cloud operations</span></div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -4537,7 +4556,7 @@
             "showButton": false
           },
           "title": "Resource Pricing",
-          "text": "<p><b>Understand the real time pricing of the Instances</b></p>",
+          "text": "<p><b>Understand the real time pricing of resources</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4567,13 +4586,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4644,7 +4663,8 @@
               "font-size": "17px"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "color": "#000000"
@@ -4693,8 +4713,8 @@
               "size": 0
             }
           },
-          "title": "Pricing",
-          "text": "Compare and constrast various instance types and their pricing in real time<br> <br>Make quick adjustments based on the current pricing of the instances.<br><br>",
+          "title": "On Demand Pricing<br><br><span style=\"font-weight: normal;\">Compare and constrast various instance types and their pricing in real time</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Make quick adjustments based on the current pricing of the instances.</span></div>",
+          "text": "<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -4906,13 +4926,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#5a5a5a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#6c6c6c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#747474"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4986,7 +5006,8 @@
               "color": "#000000"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-1i",
@@ -5032,8 +5053,8 @@
               "size": 0
             }
           },
-          "title": "Reversed Instance Usage",
-          "text": "<b>&nbsp;</b>Reserved instances are cost saving instance, but if they are not utilized then they are costs.<br><br>Get real-time RI Usage and replace on-demand instance with RI instances",
+          "title": "<br>Reversed Instance Usage<br><br><span style=\"font-weight: normal;\">Reserved instances are cost saving instance, but if they are not utilized then they are costs.</span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Get real-time RI Usage and replace on-demand instance with RI instances</span><br><br></div>",
+          "text": "<b>&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
