@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Old Pricing.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -491,7 +491,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5419,13 +5419,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
         },
@@ -5450,19 +5450,19 @@
           },
           "_anchor": "form1-5p",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-2000x1011.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-2000x1011.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "Pricing",
           "subtitle": "<b>Contact us for detailed pricing</b>",
@@ -5550,17 +5550,17 @@
           "_name": "menu",
           "_anchor": "menu-59",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#747474",
             "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
