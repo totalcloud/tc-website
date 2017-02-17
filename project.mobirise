@@ -62,10 +62,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -633,10 +633,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5440,6 +5440,12 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#28324e"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "form1-5p",
@@ -5447,19 +5453,19 @@
             "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-2000x1011.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
+            "bgColorRadio": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
             "showSubTitle": true
           },
           "title": "Pricing",
-          "subtitle": "Contact us for detailed pricing",
+          "subtitle": "<b>Contact us for detailed pricing</b>",
           "form": {
             "action": "shubham@totalcloud.io",
             "alerts": {
