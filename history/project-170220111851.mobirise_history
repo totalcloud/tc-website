@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Old Pricing.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRO\u001bDUCT</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-cost.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COST &amp; USAGE</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">COST ANALYZER<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-usage-monitoring.html\">USAGE MONITORING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">REAL TIME PRICING<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI USAGE<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-usage-efficiency.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMPLIANCE &amp; INSIGHTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">SECURITY COMPLIANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">COST INSIGHTS</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-cloud-operations.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OPERATIONS &amp; AUTOMATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">CLOUD OPERATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">AUTOMATION</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Old Pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">PRIVACY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">SECURITY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">TERMS &amp; CONDITIONS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRO\u001bDUCT</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-cost.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COST &amp; USAGE</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">COST ANALYZER<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-usage-monitoring.html\">USAGE MONITORING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">REAL TIME PRICING<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI USAGE<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-usage-efficiency.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMPLIANCE &amp; INSIGHTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">SECURITY COMPLIANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">COST INSIGHTS</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-cloud-operations.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OPERATIONS &amp; AUTOMATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">CLOUD OPERATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">AUTOMATION</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Old Pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">PRIVACY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">SECURITY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">TERMS &amp; CONDITIONS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -2368,10 +2368,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2579,7 +2579,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2708,10 +2708,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3001,7 +3001,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3130,10 +3130,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3344,7 +3344,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3473,10 +3473,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3684,7 +3684,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3809,10 +3809,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4109,7 +4109,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4239,10 +4239,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4452,7 +4452,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4582,10 +4582,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4792,7 +4792,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4922,10 +4922,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5132,7 +5132,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
+          "text2": "+91 9900080830",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5419,13 +5419,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
         },
@@ -5450,19 +5450,19 @@
           },
           "_anchor": "form1-5p",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-2000x1011.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Pricing",
           "subtitle": "<b>Contact us for detailed pricing</b>",
@@ -5550,17 +5550,17 @@
           "_name": "menu",
           "_anchor": "menu-59",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#747474",
             "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -5580,110 +5580,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRO\u001bDUCT</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-cost.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COST &amp; USAGE</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">COST ANALYZER<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-usage-monitoring.html\">USAGE MONITORING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">REAL TIME PRICING<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI USAGE<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-usage-efficiency.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMPLIANCE &amp; INSIGHTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">SECURITY COMPLIANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">COST INSIGHTS</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"solution-cloud-operations.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OPERATIONS &amp; AUTOMATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">CLOUD OPERATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">AUTOMATION</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Old Pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SECURITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">PRIVACY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">SECURITY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">TERMS &amp; CONDITIONS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">GET STARTED</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "contacts3-28",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "&nbsp;",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 415-527-0866",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "cloud@totalcloud.io",
-          "title1": "Support",
-          "text5": "<li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Resources</b></span></font><br><br><a href=\"about.html\">About</a><br><br><a href=\"https://www.twitter.com/totalcloudio\">Twiiter</a>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "cloud@totalcloud.io",
-            "alerts": {
-              "success": "Thanks for reaching out. We'll get back to you shortly"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     }
