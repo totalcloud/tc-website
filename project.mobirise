@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Security.html",
+    "currentPage": "Pricing.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -5244,6 +5244,16 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#28324e"
+            },
+            ".mbr-plan-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-label B": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            },
+            ".mbr-plan-title": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -5285,7 +5295,7 @@
           "description1": "More details",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label2": "HOT!",
+          "label2": "<b>Free!</b>",
           "title2": "BASIC",
           "subtitle2": "Get Started",
           "currency2": "$",
@@ -5296,7 +5306,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
-          "subtitle3": "Explore More",
+          "subtitle3": "Growing- Explore more",
           "currency3": "$",
           "price3": "49",
           "period3": "/mo.",
@@ -5305,7 +5315,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
-          "subtitle4": "Achieve More",
+          "subtitle4": "Scaling- Save more",
           "currency4": "",
           "price4": "",
           "period4": "<a href=\"Pricing.html\">Contact Us</a>",
