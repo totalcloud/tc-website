@@ -5302,7 +5302,7 @@
           "price2": "0",
           "period2": "/mo.",
           "description2": "No additional cost<br><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Limited Features</li><li class=\"list-group-item\">Cost Analyzer, Usage Monitoring</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></span><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><br></span></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Limited Features</li><li class=\"list-group-item\">Cost Analyzer, Usage Monitoring</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><br></span></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
