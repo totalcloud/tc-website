@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Pricing.html",
+    "currentPage": "Feature-RI-Usage.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 223,
+    "uniqCompNum": 238,
     "versionPublish": "3.11.1",
     "publishType": "local",
     "publishPath": "file:///Users/rajanishdodamani/D%20Drive/Total%20Cloud/publish",
@@ -193,16 +193,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-64",
+          "_anchor": "msg-box5-67",
           "_params": {
             "imageSize": "59",
             "paddingTop": "2",
@@ -228,7 +219,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/output_hzgsgu.gif",
               "link": "",
               "alt": "",
               "title": "",
@@ -247,14 +238,8 @@
             }
           },
           "title": "Cost Analyzer&nbsp;<div>&amp; Usage Monitoring</div>",
-          "text": "Interactively build your cost perspective. Slice and dice overall costs in real time. Visualize all costs right on top of the inventory. No need<br>to depend on static dashboard reports.&nbsp;<a href=\"Feature-cost-analyzer.html\">Learn more</a><br><br>Get real-time and historical resource utilization based on various key metrics in a single view. <a href=\"Feature-usage-monitoring.html\">Learn more</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          "text": "Interactively build your cost perspective. Slice and dice overall costs in real time. Visualize all costs right on top of the inventory. No need<br>to depend on static dashboard reports. <a href=\"Feature-cost-analyzer.html\">Learn more</a><br><br>Get real-time and historical resource utilization based on various key metrics in a single view. <a href=\"Feature-usage-monitoring.html\">Learn more</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
               "text-align": "left",
@@ -263,10 +248,16 @@
             "P": {
               "text-align": "left"
             }
-          },
-          "_anchor": "msg-box5-65",
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-6a",
           "_params": {
-            "imageSize": "59",
+            "imageSize": "60",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -290,7 +281,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/output_6os5ic.gif",
               "link": "",
               "alt": "",
               "title": "",
@@ -309,28 +300,27 @@
             }
           },
           "title": "Security Compliance &amp;<div>Cost Insights</div>",
-          "text": "Secure your cloud infrastructure with continuous monitoring of  violations. Mitigate all your security threats  <a href=\"Feature- Security- Compliance.html\">Learn more</a><br><br>Totalcloud's recommendation engine provides key insights to reduce your AWS costs. No need to worry about the under utilized or unused resources. <a href=\"Features-Insights.html\">Learn more</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "Secure your cloud infrastructure with continuous monitoring of violations. Mitigate all your security threats  <a href=\"Feature- Security- Compliance.html\">Learn more</a><br><br>Totalcloud's recommendation engine provides key insights to reduce your AWS costs. No need to worry about the under utilized or unused resources. <a href=\"Features-Insights.html\">Learn more</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "DIV": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-66",
+          "_anchor": "msg-box5-6b",
           "_params": {
-            "imageSize": "59",
+            "imageSize": "60",
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -371,8 +361,20 @@
             }
           },
           "title": "Cloud Operations &amp;<div>Automation</div>",
-          "text": "Single platform to analyze the cloud resources and take action immediately right there. Reduce the overall debugging and operation time. <a href=\"Feature- Cloud Operation.html\">Learn more</a><br><br>Automate all cloud operations, save time and reduce scripting errors. <a href=\"Feature- Automation.html\">Learn more</a><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "Single platform to analyze the cloud resources and take action immediately right there. Reduce the overall debugging and operation time. <a href=\"Feature- Cloud Operation.html\">Learn more</a><br><br>Automate all cloud operations, save time and reduce scripting errors. <a href=\"Feature- Automation.html\">Learn more</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "DIV": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -2394,20 +2396,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-5y",
+          "_anchor": "msg-box5-6c",
           "_params": {
-            "imageSize": "59",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2429,7 +2422,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-07%20at%208-1400x988.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2449,7 +2442,15 @@
           },
           "title": "Cloud Operations",
           "text": "Where you analyse is where you operate<br><br>Save time and effort on operational debugging and cloud operations<br><br>Act on rogue resources, manage other critical activites in a single pane.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -2723,20 +2724,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-5v",
+          "_anchor": "msg-box5-6e",
           "_params": {
-            "imageSize": "53",
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "imageSize": "60",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2758,7 +2750,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%204-1400x891.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2777,8 +2769,16 @@
             }
           },
           "title": "Automation",
-          "text": "Lower your costs by automating Starting/Stopping of resources<br><br>Automatically create backups  and get rid of older resources/backups<br><br>Inter Region backup for Disaster Recovery<br><br>No need to write complex scripts and manage them.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "Lower your costs by automating Starting/Stopping of resources<br><br>Automatically create backups and get rid of older resources/backups<br><br>Inter Region backup for Disaster Recovery<br><br>No need to write complex scripts and manage them.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -2787,9 +2787,9 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-5u",
           "_params": {
-            "imageSize": "53",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": "60",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3113,19 +3113,10 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-5z",
+          "_anchor": "msg-box5-6f",
           "_params": {
-            "imageSize": "59",
-            "paddingTop": "3",
+            "imageSize": 50,
+            "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -3148,7 +3139,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-09%20at%209-1400x931.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3168,7 +3159,15 @@
           },
           "title": "Cloud Security&nbsp;",
           "text": "Continuous monitoring keeps your cloud secure.<br><br>Understand the current security violations in the cloud deployments. <br><br>Visualize the impacted resources in real-time and take corrective action<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -3442,19 +3441,10 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-60",
+          "_anchor": "msg-box5-6g",
           "_params": {
-            "imageSize": "59",
-            "paddingTop": "3",
+            "imageSize": 50,
+            "paddingTop": "2",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -3477,7 +3467,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%2012-1400x928.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3497,7 +3487,15 @@
           },
           "title": "Cost Insights",
           "text": "Totalcloud's cost saving engine provides key recommendations on cost leakages and potential savings based on usage<br><br>Get global and region level Intelligent cost savings insights in real-time.<br><br>Visualize the impacted resources, compare and contrast with other resources to build a right perspective and take corrective action.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -3768,18 +3766,9 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-5w",
+          "_anchor": "msg-box5-6h",
           "_params": {
-            "imageSize": "59",
+            "imageSize": "60",
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
@@ -3803,7 +3792,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%201-1400x789.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3823,25 +3812,24 @@
           },
           "title": "Top View",
           "text": "Get bird's eye view of the overall costs by grouping resources using multiple parameters in real time (Ex: by Tag-Value).<br><br>Dynamically restructure your view based on grouping parameters.<br><br>Analyze the current costs, yesterday's and projected costs for the time period selected<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-5x",
+          "_anchor": "msg-box5-6i",
           "_params": {
-            "imageSize": "59",
+            "imageSize": "60",
             "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
@@ -3865,7 +3853,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%201-1400x1007.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3885,7 +3873,15 @@
           },
           "title": "Drill Down View",
           "text": "Interactively zoom-in to drill down multiple levels and understand costs at each individual resource<br><br>No more bulky reports and dashboards to understand.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -4160,19 +4156,10 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-63",
+          "_anchor": "msg-box5-6j",
           "_params": {
-            "imageSize": "62",
-            "paddingTop": "3",
+            "imageSize": "60",
+            "paddingTop": "2",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -4195,7 +4182,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%2012-1400x992.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4214,8 +4201,16 @@
             }
           },
           "title": "Monitor resource usage",
-          "text": "A static report on a constantly changing cloud environment does not give the right picture.<br><br>Analyse current and historical resource utilization  in a single view.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud Operation</a>&nbsp;\u001b.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "A static report on a constantly changing cloud environment does not give the right picture.<br><br>Analyse current and historical resource utilization in a single view.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operation</a>&nbsp;\u001b.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -4490,19 +4485,10 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-62",
+          "_anchor": "msg-box5-6k",
           "_params": {
             "imageSize": "59",
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -4525,7 +4511,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%2011-1400x885.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4544,8 +4530,16 @@
             }
           },
           "title": "On Demand Pricing",
-          "text": "<br>Compare and constrast various instance types and their pricing in real time<br><br>Make quick adjustments based on the current pricing of the instances.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "Compare and constrast various instance types and their pricing in real time<br><br>Make quick adjustments based on the current pricing of the instances.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -4820,19 +4814,10 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-61",
+          "_anchor": "msg-box5-6l",
           "_params": {
-            "imageSize": "59",
-            "paddingTop": "3",
+            "imageSize": "60",
+            "paddingTop": "2",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -4855,7 +4840,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/output_9bewpi.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%2011-1400x846.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4875,7 +4860,15 @@
           },
           "title": "Reversed Instance Usage",
           "text": "Reserved instances are cost saving instance, but if they are not utilized then they are costs.<br><br>Get real-time RI Usage and replace on-demand instance with RI instances<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
