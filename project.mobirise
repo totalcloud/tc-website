@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature-RI-Usage.html",
+    "currentPage": "Feature-cost-analyzer.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -3792,7 +3792,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%201-1400x789.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-24%20at%2011-1400x933.png",
               "link": "",
               "alt": "",
               "title": "",
