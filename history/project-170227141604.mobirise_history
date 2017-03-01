@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Feature-cost-analyzer.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -193,15 +193,6 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
           "_anchor": "msg-box5-67",
           "_params": {
             "imageSize": "59",
@@ -247,22 +238,23 @@
             }
           },
           "title": "Cost Analyzer&nbsp;<div>&amp; Usage Monitoring</div>",
-          "text": "Interactively build your cost perspective. Slice and dice overall costs in real time. Visualize all costs right on top of the inventory. No need&nbsp;to depend on static dashboard reports. <a href=\"Feature-cost-analyzer.html\">Learn more</a><br><br>Get real-time and historical resource utilization based on various key metrics in a single view. <a href=\"Feature-usage-monitoring.html\">Learn more</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Interactively build your cost perspective. Slice and dice overall costs in real time. Visualize all costs right on top of the inventory. No need<br>to depend on static dashboard reports. <a href=\"Feature-cost-analyzer.html\">Learn more</a><br><br>Get real-time and historical resource utilization based on various key metrics in a single view. <a href=\"Feature-usage-monitoring.html\">Learn more</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "DIV": {
-              "font-size": "36px"
-            },
-            "H3": {
-              "font-size": "36px"
-            }
-          },
           "_anchor": "msg-box5-6a",
           "_params": {
             "imageSize": "60",
@@ -309,25 +301,21 @@
           },
           "title": "Security Compliance &amp;<div>Cost Insights</div>",
           "text": "Secure your cloud infrastructure with continuous monitoring of violations. Mitigate all your security threats  <a href=\"Feature- Security- Compliance.html\">Learn more</a><br><br>Totalcloud's recommendation engine provides key insights to reduce your AWS costs. No need to worry about the under utilized or unused resources. <a href=\"Features-Insights.html\">Learn more</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "DIV": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "DIV": {
-              "font-size": "36px"
-            },
-            "H3": {
-              "font-size": "36px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
           "_anchor": "msg-box5-6b",
           "_params": {
             "imageSize": "60",
@@ -374,7 +362,19 @@
           },
           "title": "Cloud Operations &amp;<div>Automation</div>",
           "text": "Single platform to analyze the cloud resources and take action immediately right there. Reduce the overall debugging and operation time. <a href=\"Feature- Cloud Operation.html\">Learn more</a><br><br>Automate all cloud operations, save time and reduce scripting errors. <a href=\"Feature- Automation.html\">Learn more</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "DIV": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -3653,23 +3653,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3m",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-2000x1011.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Cost Analyzer",
           "text": "<p><b>Interactively visualize all your costs right on top of your Inventory. Slice and dice the overall costs in real time by grouping resources using multiple parameters</b></p>",
@@ -3730,17 +3730,17 @@
           "_name": "menu",
           "_anchor": "menu-15",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#747474",
             "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3768,25 +3768,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-6h",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "60",
             "paddingTop": "2",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -3829,25 +3829,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-6i",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "60",
             "paddingTop": "1",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -3893,13 +3893,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
         },
@@ -3918,13 +3918,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
