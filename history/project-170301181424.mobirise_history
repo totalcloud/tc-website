@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature- Cloud Operation.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -2583,18 +2583,18 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
           "_anchor": "buttons1-6u",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Usage Monitoring</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Usage Monitoring</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  ",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_tags": [
