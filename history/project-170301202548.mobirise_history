@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature-usage-monitoring.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 250,
+    "uniqCompNum": 249,
     "versionPublish": "3.11.1",
     "publishType": "local",
     "publishPath": "file:///Users/rajanishdodamani/D%20Drive/Total%20Cloud/publish",
@@ -4500,7 +4500,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-03-02%20at%201-1400x935.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%2012-1400x992.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4519,7 +4519,7 @@
             }
           },
           "title": "Monitor resource usage",
-          "text": "A static report on a constantly changing cloud environment does not give the right picture.<br><br>Analyse current and historical resource utilization in a single view.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operation</a>&nbsp;\u001b.<br><br>Use- Case:&nbsp;Check the current status of various elb connections.",
+          "text": "A static report on a constantly changing cloud environment does not give the right picture.<br><br>Analyse current and historical resource utilization in a single view.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operation</a>&nbsp;\u001b.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -5431,7 +5431,7 @@
           "_anchor": "pricing-table2-5s",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -5470,7 +5470,7 @@
           "price2": "0",
           "period2": "/mo.",
           "description2": "No additional cost<br><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Limited Features (Cost Analyzer, Usage Monitoring)</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Limited Features</li><li class=\"list-group-item\">Cost Analyzer, Usage Monitoring</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><br></span></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
@@ -5479,7 +5479,7 @@
           "price3": "49",
           "period3": "/mo.",
           "description3": "$25/mo -Compliance &amp; Insights (Optional) +<br>$25/mo -Operations &amp; Automation (Optional) &nbsp;&nbsp;<br>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend less than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">All Features</li><li class=\"list-group-item\">Support- Email, Chat and Phon<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">e</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><br></span></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend less than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">Full Features list</li><li class=\"list-group-item\">Cost Analyzer, Usage Monitoring, Pricing, RI Usage, &nbsp;Compliance &amp; Insights, Operations &amp; Automation</li><li class=\"list-group-item\">Support- Email, Chat and Phone</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
@@ -5488,32 +5488,8 @@
           "price4": "",
           "period4": "<a href=\"Pricing.html\">Contact Us</a>",
           "description4": "Special pricing based on the usage<br><br>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend more than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">All Features</li><li class=\"list-group-item\">Business Support - Email, Chat, Phone &amp; Account Manage<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">r</span><br></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend more than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">Full Features list</li><li class=\"list-group-item\">Cost Analyzer, Usage Monitoring, Pricing, RI Usage,  Compliance &amp; Insights, Operations &amp; Automation</li><li class=\"list-group-item\">Business Support - Email, Chat, Phone &amp; Account Manager</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "18px",
-              "color": "#28324e"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-6x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "3",
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Discount on Annual plans<span style=\"font-weight: normal;\"> : 12 months of service at a price of 10 with any annual plan</span><span style=\"font-weight: normal;\"><br></span>AWS MSPs &amp; Consulting Partners: &nbsp;<span style=\"font-weight: normal;\">Contact us to get</span>&nbsp;<span style=\"font-weight: normal;\">Special</span> <span style=\"font-weight: normal;\">pricing</span><span style=\"font-weight: normal;\">&nbsp;</span><span style=\"font-weight: normal;\"><br></span>",
-          "meta": ""
         },
         {
           "_tags": [
