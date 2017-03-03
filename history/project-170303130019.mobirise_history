@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature-cost-analyzer.html",
+    "currentPage": "Features-Insights.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 260,
+    "uniqCompNum": 256,
     "versionPublish": "3.11.1",
     "publishType": "local",
     "publishPath": "file:///Users/rajanishdodamani/D%20Drive/Total%20Cloud/publish",
@@ -150,7 +150,7 @@
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/in-pieces-nyc-nathan-sawaya-and-dean-west-avant-gallery-lego-yatzer-23-2000x1011-99.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -158,7 +158,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000000",
+            "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -1916,10 +1916,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1968,7 +1968,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo_2x-178x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128_3.png",
               "height": 128,
               "alt": "Totalcloud.io",
               "link": "index.html",
@@ -1996,8 +1996,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2n",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-reserve-wpyap0tyq3melk0krbyn-lagunahike-jpg-2000x1250.jpg",
@@ -2025,11 +2025,11 @@
           "_name": "content1",
           "_anchor": "content1-2o",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>TotalCloud is a foray in creating the virtual world for cloud infrastructure. We are building the next generation interface similar to a virtual game to visualize and manage your cloud infrastructure.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>TotalCloud is a foray in creating the virtual world for cloud infrastructure. We are building the next generation platform similar to a virtual game to visualize and manage your cloud infrastructure.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -2654,7 +2654,7 @@
             }
           },
           "title": "Cloud Operations",
-          "text": "Where you analyse is where you operate<br><br>Save time and effort on operational debugging and cloud operations<br><br>Act on rogue resources, manage other critical activites in a single pane.<br><br>Supports all the major cloud operations, <a href=\"subscribe.html\">contact us</a>&nbsp;for detailed product overview.",
+          "text": "Where you analyse is where you operate<br><br>Save time and effort on operational debugging and cloud operations<br><br>Act on rogue resources, manage other critical activites in a single pane.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3064,7 +3064,7 @@
             }
           },
           "title": "Job History",
-          "text": "View scheduled job history for execution status.<br>",
+          "text": "View scheduled job history for execution status.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -3413,7 +3413,7 @@
             }
           },
           "title": "Cloud Security&nbsp;",
-          "text": "Continuous monitoring keeps your cloud secure.<br><br>Understand the current security violations in the cloud deployments. Reduce the time spent on validating security loopholes.<br><br>Visualize the impacted resources in real-time and take corrective action<br>",
+          "text": "Continuous monitoring keeps your cloud secure.<br><br>Understand the current security violations in the cloud deployments. <br><br>Visualize the impacted resources in real-time and take corrective action<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -4065,7 +4065,7 @@
           },
           "_anchor": "msg-box5-6h",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "60",
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
@@ -4089,7 +4089,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-03-03%20at%204-1400x927.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-24%20at%2011-1400x933.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4108,69 +4108,8 @@
             }
           },
           "title": "Top View",
-          "text": "Get bird's eye view of overall costs by grouping resources using multiple parameters in real time&nbsp;<br><br>Associate costs with real-time inventory. Undestand the cost spend by various applications/services.<br><br>Get the overall cost, yesterday's and projected cost for the time period selected<br>",
+          "text": "Get bird's eye view of the overall costs by grouping resources using multiple parameters in real time (Ex: by Tag-Value).<br><br>Dynamically restructure your view based on grouping parameters.<br><br>Analyze the current costs, yesterday's and projected costs for the time period selected<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-77",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-03-03%20at%204-1400x931.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Group View",
-          "text": "Dynamically group resources using multiple parameters(for ex, Tag value, VPC Id, resource type) to slice and dice the overall costs.&nbsp;<br><br>Multiple realtime views can be built in no time.&nbsp;<br><br>Allows multiple levels of groupings to understand your cost spend in an intuitive way. (For ex, Level1 grouping - Resource type, Level2 - Instances are further grouped by tag value)<br><br>Build your own perspective of the cost spend",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
         },
         {
           "_tags": [
@@ -4187,7 +4126,7 @@
           },
           "_anchor": "msg-box5-6i",
           "_params": {
-            "imageSize": "50",
+            "imageSize": "60",
             "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
@@ -4211,7 +4150,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-03-03%20at%204-1400x934.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-02-06%20at%201-1400x1007.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4529,8 +4468,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "text-align": "left",
-              "font-size": "36px"
+              "text-align": "left"
             },
             "P": {
               "text-align": "left"
@@ -4538,124 +4476,9 @@
           },
           "_anchor": "msg-box5-6j",
           "_params": {
-            "imageSize": "51",
+            "imageSize": "60",
             "paddingTop": "2",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-03-03%20at%202-1400x934.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Monitor resource usage",
-          "text": "A static report on a constantly changing cloud environment does not give the right picture.<br><br>Analyse current and historical resource utilization in a single view.<br><br>Color coding makes it easier to understand the usage.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operation</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-75",
-          "_params": {
-            "imageSize": "51",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-03-03%20at%202-1400x938.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Get all your cloudwatch metrics",
-          "text": "Dyanmiaclly change the resource metrics and monitor i\u001bn real time<br><br>Get custom metrics pushed to cloudwatch on totalcloud dynamically, no need of additional configuration<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-76",
-          "_params": {
-            "imageSize": "51",
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4695,18 +4518,9 @@
               "size": 0
             }
           },
-          "title": "Understand live elb connection status",
-          "text": "Quickly validate the status of all elb connections and take action (for ex, register a new instance).check&nbsp;<a href=\"Feature- Cloud Operation.html\">cloud operation</a>.<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">One single pane to view the entire topology and understand its current status.</span><br>&nbsp;<br>Reduce the overall debugging time to secs. No need to check multiple logs and dashboards.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "title": "Monitor resource usage",
+          "text": "A static report on a constantly changing cloud environment does not give the right picture.<br><br>Analyse current and historical resource utilization in a single view.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operation</a>&nbsp;\u001b.<br><br>Use- Case:&nbsp;Check the current status of various elb connections.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
