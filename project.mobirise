@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature-cost-analyzer.html",
+    "currentPage": "Pricing.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -5560,7 +5560,7 @@
           "_anchor": "msg-box8-5t",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
@@ -5739,10 +5739,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
