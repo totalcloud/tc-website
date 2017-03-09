@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Pricing.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 260,
+    "uniqCompNum": 261,
     "versionPublish": "3.11.1",
     "publishType": "local",
     "publishPath": "file:///Users/rajanishdodamani/D%20Drive/Total%20Cloud/publish",
@@ -195,6 +195,24 @@
           },
           "title": "Visibility gives you greater control",
           "meta": "Single platform to manage and monitor your cloud"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-78",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Usage Monitoring</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
         },
         {
           "_tags": [
@@ -840,10 +858,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1112,10 +1130,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1384,10 +1402,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1690,10 +1708,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2188,10 +2206,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4116,6 +4134,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-77",
           "_params": {
             "imageSize": 50,
@@ -4162,15 +4188,7 @@
           },
           "title": "Group View",
           "text": "Dynamically group resources using multiple parameters(for ex, Tag value, VPC Id, resource type) to slice and dice the overall costs.&nbsp;<br><br>Multiple realtime views can be built in no time.&nbsp;<br><br>Allows multiple levels of groupings to understand your cost spend in an intuitive way. (For ex, Level1 grouping - Resource type, Level2 - Instances are further grouped by tag value)<br><br>Build your own perspective of the cost spend",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -4589,6 +4607,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-75",
           "_params": {
             "imageSize": "51",
@@ -4635,7 +4662,13 @@
           },
           "title": "Get all your cloudwatch metrics",
           "text": "Dyanmiaclly change the resource metrics and monitor i\u001bn real time<br><br>Get custom metrics pushed to cloudwatch on totalcloud dynamically, no need of additional configuration<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "text-align": "left",
@@ -4644,13 +4677,7 @@
             "P": {
               "text-align": "left"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-76",
           "_params": {
             "imageSize": "51",
@@ -4697,16 +4724,7 @@
           },
           "title": "Understand live elb connection status",
           "text": "Quickly validate the status of all elb connections and take action (for ex, register a new instance).check&nbsp;<a href=\"Feature- Cloud Operation.html\">cloud operation</a>.<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">One single pane to view the entire topology and understand its current status.</span><br>&nbsp;<br>Reduce the overall debugging time to secs. No need to check multiple logs and dashboards.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
