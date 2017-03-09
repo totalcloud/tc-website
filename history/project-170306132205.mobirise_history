@@ -567,7 +567,7 @@
             "showSubTitle": true
           },
           "title": "Subscribe to get a free trial",
-          "subtitle": "We will contact you shortly at this address",
+          "subtitle": "We will contact you shortly on this address",
           "form": {
             "action": "pradip.mj@gmail.com",
             "alerts": {
@@ -615,10 +615,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
