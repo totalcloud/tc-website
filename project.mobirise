@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Feature- Security- Compliance.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -346,7 +346,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -391,7 +391,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-10%20at%207-2390x1600.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-10-at-7-2390x1600.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -428,7 +428,7 @@
           "feature_subtitle5": "",
           "feature_text5": "Add any custom metric to cloudwatch and instantly visualise them on the platform. No additional changes required.",
           "_customCSS": "@import url(undefined);\n.feature-title, .description {\n\tcolor: #232323;\n}\n.feature-subtitle {\n\tcolor: #8c8c8c;\n}\n.feature-title {\n\tfont-size: 20px;\n}\n",
-          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"572\">Monitoring</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"573\">Get real-time monitoring information for all resources in one view</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"574\">Single view<br></div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"575\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"576\">Real-time view of &nbsp;all resources in a single pane of glass across multiple metrics</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"mbri-preview mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"577\">Visualisation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"578\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"579\">Get instant usage view with rich color coding. The color represents the current usage level. Red is high and blue is low&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"fa fa-dashboard mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/screen%20shot%202017-04-10%20at%207-2390x1600.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"imind-bar-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"580\">Hostorical Analysis</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"581\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"582\">Understand the historical usage pattern for individual resources across multiple metrics with interactive graphs</p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"etl-icon icon-tools-2 mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"583\">Custom Metrics</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"584\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"585\">Add any custom metric to cloudwatch and instantly visualise them on the platform. No additional changes required.</p>\n\n                        \n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn btn-secondary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"586\">Learn More</a></div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"572\">Monitoring</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"573\">Get real-time monitoring information for all resources in one view</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"574\">Single view<br></div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"575\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"576\">Real-time view of &nbsp;all resources in a single pane of glass across multiple metrics</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"mbri-preview mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"577\">Visualisation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"578\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"579\">Get instant usage view with rich color coding. The color represents the current usage level. Red is high and blue is low&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"fa fa-dashboard mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/screen-shot-2017-04-10-at-7-2390x1600.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"imind-bar-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"580\">Hostorical Analysis</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"581\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"582\">Understand the historical usage pattern for individual resources across multiple metrics with interactive graphs</p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"etl-icon icon-tools-2 mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"583\">Custom Metrics</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"584\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"585\">Add any custom metric to cloudwatch and instantly visualise them on the platform. No additional changes required.</p>\n\n                        \n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn btn-secondary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"586\">Learn More</a></div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -472,7 +472,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -553,7 +553,7 @@
           "feature_title5": "Cost Projections",
           "feature_subtitle5": "",
           "feature_text5": "Get cost projections for the entire month based on the current usage pattern",
-          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 90px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"551\">Cost Analyzer</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"552\">Interactively build your cost perspective</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"553\">Build cost view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"554\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"555\">Interactively build cost views and zoom in/out to get the detailed costs .&nbsp;</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"fa fa-bar-chart-o mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"556\">Real-time  view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"557\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"558\">Get real time view of costs in single pane of glass across all the resources.&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"mbri-clock mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/Untitled12.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"mdi-action-view-quilt mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"559\">Segmentation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"560\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"561\">Slice and dice your cost Interactively by grouping resources at multiple levels.<br></p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"mbri-growing-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"562\">Cost Projections</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"563\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"564\">Get cost projections for the entire month based on the current usage pattern<br><br> &nbsp;</p>\n\n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn btn-secondary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"565\">Learn More</a></div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 90px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"551\">Cost Analyzer</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"552\">Interactively build your cost perspective</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"553\">Build cost view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"554\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"555\">Interactively build cost views and zoom in/out to get the detailed costs .&nbsp;</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"fa fa-bar-chart-o mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"556\">Real-time  view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"557\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"558\">Get real time view of costs in single pane of glass across all the resources.&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"mbri-clock mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/untitled12.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"mdi-action-view-quilt mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"559\">Segmentation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"560\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"561\">Slice and dice your cost Interactively by grouping resources at multiple levels.<br></p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"mbri-growing-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"562\">Cost Projections</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"563\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"564\">Get cost projections for the entire month based on the current usage pattern<br><br> &nbsp;</p>\n\n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn btn-secondary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"565\">Learn More</a></div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.feature-title, .description {\n\tcolor: #232323;\n}\n.feature-subtitle {\n\tcolor: #8c8c8c;\n}\n",
@@ -607,7 +607,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -711,7 +711,7 @@
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extHeader11_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1213,13 +1213,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -2690,13 +2690,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -2825,7 +2825,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows_logo_-_2002%E2%80%932012_(multicolored)-600x527.png",
+              "src": "@PROJECT_PATH@/assets/images/windows-logo-20022012-multicolored-600x527.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3255,7 +3255,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-13%20at%207-1400x890.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-13-at-7-1400x890.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3667,7 +3667,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-17%20at%205-1400x939.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-5-1400x939.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3728,7 +3728,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-18%20at%206-1400x940.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-18-at-6-1400x940.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4140,7 +4140,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-18%20at%205-1400x938.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-18-at-5-1400x938.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4552,7 +4552,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-17%20at%205-1400x940.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-5-1400x940.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -5033,7 +5033,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/cost%20view-1400x938.png",
+              "src": "@PROJECT_PATH@/assets/images/cost-view-1400x938.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -5094,7 +5094,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/drilldown%20view-1400x938.png",
+              "src": "@PROJECT_PATH@/assets/images/drilldown-view-1400x938.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -5926,7 +5926,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-17%20at%206-1400x887.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-6-1400x887.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -6138,23 +6138,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-5t",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#7c706b",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "PRICING",
           "text": "",
@@ -6195,27 +6195,27 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-5s",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "hidden",
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "",
             "paddingTop": "0",
             "paddingBottom": "1",
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "hidden",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
           },
           "title": "",
           "subtitle": "Enjoy 30-day free trial, No credit card required.",
@@ -6272,10 +6272,10 @@
           "_name": "header3",
           "_anchor": "header3-6x",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Discount on Annual plans<span style=\"font-weight: normal;\"> : 12 months of service at a price of 10 with any annual plan</span><span style=\"font-weight: normal;\"><br></span>MSPs &amp; Consulting Partners: &nbsp;<span style=\"font-weight: normal;\">Contact us to get</span>&nbsp;<span style=\"font-weight: normal;\">Special</span> <span style=\"font-weight: normal;\">pricing</span><span style=\"font-weight: normal;\">&nbsp;</span><span style=\"font-weight: normal;\"><br></span>",
           "meta": ""
@@ -6290,13 +6290,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
         },
@@ -6355,17 +6355,17 @@
           "_name": "menu",
           "_anchor": "menu-59",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -6409,13 +6409,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#3c3c3c",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3c3c3c"
           },
           "logo": {
             "image": {
@@ -6799,7 +6799,7 @@
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -6992,7 +6992,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-17%20at%205-2000x1250.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-5-2000x1250.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7478,7 +7478,7 @@
             "bgTextSize": 250,
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -7497,7 +7497,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-14%20at%207-1400x939.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-14-at-7-1400x939.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -7559,7 +7559,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-17%20at%205-1400x890.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-5-1400x890.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -7621,7 +7621,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-04-17%20at%206-1400x889.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-6-1400x889.png",
               "link": "",
               "alt": "",
               "title": "",
