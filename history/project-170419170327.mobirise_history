@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Feature-monitoring.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -21,20 +21,23 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 365,
+    "uniqCompNum": 331,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x96.png",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91918137-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n\r\n<!-- start Mixpanel --><script type=\"text/javascript\">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+\"=([^&]*)\")))?l[1]:null};g&&c(g,\"state\")&&(i=JSON.parse(decodeURIComponent(c(g,\"state\"))),\"mpeditor\"===i.action&&(b.sessionStorage.setItem(\"_mpcehash\",g),history.replaceState(i.desiredHash||\"\",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(\".\");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,\r\n0)))}}var d=a;\"undefined\"!==typeof f?d=a[f]=[]:f=\"mixpanel\";d.people=d.people||[];d.toString=function(b){var a=\"mixpanel\";\"mixpanel\"!==f&&(a+=\".\"+f);b||(a+=\" (stub)\");return a};d.people.toString=function(){return d.toString(1)+\".people (stub)\"};k=\"disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user\".split(\" \");\r\nfor(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement(\"script\");b.type=\"text/javascript\";b.async=!0;b.src=\"undefined\"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:\"file:\"===e.location.protocol&&\"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js\".match(/^\\/\\//)?\"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js\":\"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js\";c=e.getElementsByTagName(\"script\")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);\r\nmixpanel.init(\"f302071f3059f2e2cff93923cf4f9ed0\");</script><!-- end Mixpanel -->\r\n\r\n<script>\r\n(function(h,e,a,t,m,p) {\r\nm=e.createElement(a);m.async=!0;m.src=t;\r\np=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);\r\n})(window,document,'script','https://u.heatmap.it/log.js');\r\n</script>\r\n\r\n<!--Start of Tawk.to Script-->\r\n<script type=\"text/javascript\">\r\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\r\n(function(){\r\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\r\ns1.async=true;\r\ns1.src='https://embed.tawk.to/58f76878f7bbaa72709c71ad/default';\r\ns1.charset='UTF-8';\r\ns1.setAttribute('crossorigin','*');\r\ns0.parentNode.insertBefore(s1,s0);\r\n})();\r\n</script>\r\n<!--End of Tawk.to Script-->",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91918137-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n\r\n<!-- start Mixpanel --><script type=\"text/javascript\">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+\"=([^&]*)\")))?l[1]:null};g&&c(g,\"state\")&&(i=JSON.parse(decodeURIComponent(c(g,\"state\"))),\"mpeditor\"===i.action&&(b.sessionStorage.setItem(\"_mpcehash\",g),history.replaceState(i.desiredHash||\"\",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(\".\");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,\r\n0)))}}var d=a;\"undefined\"!==typeof f?d=a[f]=[]:f=\"mixpanel\";d.people=d.people||[];d.toString=function(b){var a=\"mixpanel\";\"mixpanel\"!==f&&(a+=\".\"+f);b||(a+=\" (stub)\");return a};d.people.toString=function(){return d.toString(1)+\".people (stub)\"};k=\"disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user\".split(\" \");\r\nfor(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement(\"script\");b.type=\"text/javascript\";b.async=!0;b.src=\"undefined\"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:\"file:\"===e.location.protocol&&\"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js\".match(/^\\/\\//)?\"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js\":\"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js\";c=e.getElementsByTagName(\"script\")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);\r\nmixpanel.init(\"f302071f3059f2e2cff93923cf4f9ed0\");</script><!-- end Mixpanel -->\r\n\r\n<script>\r\n(function(h,e,a,t,m,p) {\r\nm=e.createElement(a);m.async=!0;m.src=t;\r\np=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);\r\n})(window,document,'script','https://u.heatmap.it/log.js');\r\n</script>",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "file:///Users/rajanishdodamani/D%20Drive/Total%20Cloud/publish"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Visual & Interactive Management of Cloud",
+        "title": "Totalcloud- Visual & Interactive Management of Cloud",
         "meta_descr": "Virtual platform to visualize cloud topology &  monitor resources in realtime",
         "header_custom": "",
         "footer_custom": "",
@@ -125,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -154,7 +157,7 @@
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -183,7 +186,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a> "
         },
         {
           "_styles": {
@@ -197,18 +200,18 @@
           "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "timeout": 5,
             "paddingTop": "1",
             "paddingBottom": "0",
+            "timeout": 5,
             "slides": [
               {
+                "contentAlign": "center",
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-11-at-6-2000x1260.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "overlayOpacity": "0.2",
-                "contentAlign": "center",
                 "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
                 "showText": false,
@@ -217,13 +220,13 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
+                "contentAlign": "center",
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/untitled2-2000x1196.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "overlayOpacity": "0",
-                "contentAlign": "center",
                 "showTitle": true,
                 "title": "",
                 "showText": true,
@@ -232,6 +235,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>   "
               }
             ],
+            "fullScreen": false,
             "bgColor": "#fff",
             "showBullets": false
           },
@@ -256,15 +260,71 @@
             "Theme"
           ],
           "_name": "header3",
+          "meta": "Single platform to visualize, monitor and act",
           "_anchor": "header3-5d",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@ADDON_DIR@_images/header5.jpg",
             "bgColor": "#fff",
-            "showMeta": true
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.35,
+            "overlayColor": "#151515",
+            "inverse": true,
+            "showMedia": true,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": true
           },
-          "title": "Visibility gives your greater control",
-          "meta": "Single platform to visualize, monitor and act"
+          "title": "Visibility gives your greater control"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "meta": "",
+          "_anchor": "header3-7x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@ADDON_DIR@_images/header5.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.35,
+            "overlayColor": "#151515",
+            "inverse": true,
+            "showMedia": true,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": true
+          },
+          "title": "Product Features"
         },
         {
           "_tags": [
@@ -278,9 +338,9 @@
           },
           "_anchor": "buttons1-78",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
         },
@@ -404,7 +464,7 @@
           "feature_subtitle5": "",
           "feature_text5": "Add any custom metric to cloudwatch and instantly visualise them on the platform. No additional changes required.",
           "_customCSS": "@import url(undefined);\n.feature-title, .description {\n\tcolor: #232323;\n}\n.feature-subtitle {\n\tcolor: #8c8c8c;\n}\n.feature-title {\n\tfont-size: 20px;\n}\n",
-          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"53\">Monitoring</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"54\">Get real-time monitoring information for all resources in one view</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"55\">Single view<br></div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"56\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"57\">Real-time view of &nbsp;all resources in a single pane across multiple metrics</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"mbri-preview mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"58\">Visualisation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"59\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"60\">Get instant usage view with rich color coding. The color represents the current usage level. Red is high and blue is low&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"fa fa-dashboard mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/screen-shot-2017-04-10-at-7-2390x1600.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"imind-bar-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"61\">Historical Analysis</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"62\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"63\">Understand the historical usage pattern for individual resources across multiple metrics with interactive graphs</p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"etl-icon icon-tools-2 mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"64\">Custom Metrics</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"65\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"66\">Add any custom metric to cloudwatch and instantly visualise them on the platform. No additional changes required.</p>\n\n                        \n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn mbr-editable-button btn-black\" href=\"Feature-monitoring.html\" code-editable-id=\"67\">Learn More</a></div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"572\">Monitoring</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"573\">Get real-time monitoring information for all resources in one view</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"574\">Single view<br></div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"575\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"576\">Real-time view of &nbsp;all resources in a single pane across multiple metrics</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"mbri-preview mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"577\">Visualisation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"578\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"579\">Get instant usage view with rich color coding. The color represents the current usage level. Red is high and blue is low&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"fa fa-dashboard mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/screen-shot-2017-04-10-at-7-2390x1600.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"imind-bar-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"580\">Hostorical Analysis</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"581\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"582\">Understand the historical usage pattern for individual resources across multiple metrics with interactive graphs</p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"etl-icon icon-tools-2 mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"583\">Custom Metrics</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"584\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"585\">Add any custom metric to cloudwatch and instantly visualise them on the platform. No additional changes required.</p>\n\n                        \n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn btn-secondary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"586\">Learn More</a></div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -529,7 +589,7 @@
           "feature_title5": "Cost Projections",
           "feature_subtitle5": "",
           "feature_text5": "Get cost projections for the entire month based on the current usage pattern",
-          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 90px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"222\">Cost Analyzer</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"223\">Interactively build your cost perspective</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"224\">Build cost view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"225\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"226\">Interactively build cost views and zoom in/out to get the detailed costs .&nbsp;</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"fa fa-bar-chart-o mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"227\">Real-time  view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"228\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"229\">Get real time view of costs in single pane across all the resources.&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"mbri-clock mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/untitled12.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"mdi-action-view-quilt mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"230\">Segmentation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"231\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"232\">Slice and dice your cost Interactively by grouping resources at multiple levels.<br></p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"mbri-growing-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"233\">Cost Projections</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"234\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"235\">Get cost projections for the entire month based on the current usage pattern<br><br> &nbsp;</p>\n\n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn mbr-editable-button btn-black\" href=\"Feature-cost-analyzer.html\" code-editable-id=\"236\">Learn More</a></div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 90px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67);\" code-editable-id=\"551\">Cost Analyzer</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"552\">Interactively build your cost perspective</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"553\">Build cost view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"554\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"555\">Interactively build cost views and zoom in/out to get the detailed costs .&nbsp;</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"fa fa-bar-chart-o mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"556\">Real-time  view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"557\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"558\">Get real time view of costs in single pane across all the resources.&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"mbri-clock mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/untitled12.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"mdi-action-view-quilt mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"559\">Segmentation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"560\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"561\">Slice and dice your cost Interactively by grouping resources at multiple levels.<br></p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"mbri-growing-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"562\">Cost Projections</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"563\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"564\">Get cost projections for the entire month based on the current usage pattern<br><br> &nbsp;</p>\n\n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn btn-secondary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"565\">Learn More</a></div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.feature-title, .description {\n\tcolor: #232323;\n}\n.feature-subtitle {\n\tcolor: #8c8c8c;\n}\n",
@@ -550,15 +610,31 @@
             "Theme"
           ],
           "_name": "header3",
+          "meta": "",
           "_anchor": "header3-7n",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@ADDON_DIR@_images/header5.jpg",
             "bgColor": "#fff",
-            "showMeta": true
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.35,
+            "overlayColor": "#151515",
+            "inverse": true,
+            "showMedia": true,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": true
           },
-          "title": "More Product Features",
-          "meta": ""
+          "title": "More Product Features"
         },
         {
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -615,7 +691,7 @@
           "title1": "Insights",
           "subtitle1": "Save costs with insights",
           "caption1": "Totalcloud's recommendation engine provides key insights to reduce your AWS costs. No need to worry about the under utilized or unused resources",
-          "button1": "<a data-app-btn=\"true\" href=\"Feature- Automation.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Feature- Automation.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -631,7 +707,7 @@
           "title2": "Security Compliance",
           "subtitle2": "Secure your cloud with compliance checks",
           "caption2": "Secure your cloud infrastructure with continuous monitoring of violations. Mitigate all your security threats",
-          "button2": "<a data-app-btn=\"true\" href=\"Feature- Security- Compliance.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Feature- Security- Compliance.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -671,24 +747,23 @@
           "_name": "extMsg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
+              "font-size": "36px"
             },
             "P": {
-              "color": "#ffffff"
+              "font-size": "22px"
             }
           },
-          "_anchor": "extMsg-box4-9e",
+          "_anchor": "extMsg-box4-7o",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_2.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -699,12 +774,12 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -730,7 +805,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -825,7 +900,7 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "25px"
+              "font-size": "36px"
             }
           },
           "_anchor": "social-buttons1-8s",
@@ -834,7 +909,7 @@
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
@@ -846,27 +921,32 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share !"
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "text": "Copyright (c) 2016 Totalcloud Inc.",
           "_anchor": "footer1-1d",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Totalcloud Inc."
+            "overlayColor": "#444444",
+            "showMedia": true
+          }
         }
       ]
     },
@@ -898,7 +978,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
@@ -1035,7 +1115,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -1068,7 +1148,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1190,13 +1270,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -1233,7 +1313,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-170x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-178x128-4.png",
               "height": 128,
               "alt": "Totalcloud.io",
               "link": "index.html",
@@ -1297,26 +1377,6 @@
           "text": "<p><br></p><p>This privacy policy discloses the security &amp; privacy practices for TotalCloud. This security &amp; privacy policy applies solely to information collected by this software. It will notify you of the following:</p><p>&nbsp;</p><ol><li>What personally identifiable information is collected from you through the website &amp; software, how it is used and with whom it may be shared.</li><li>What choices are available to you regarding the use of your data.</li><li>The security procedures in place to protect the misuse of your information.</li><li>How you can correct any inaccuracies in the information.</li></ol><p>&nbsp;</p><p><b>Information Collection, Use, and Sharing:</b></p><p>&nbsp;</p><p>We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.<span style=\"font-size: 1.07rem; line-height: 1.5;\">Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.</span></p><p>&nbsp;</p><p><b>What information do we collect?</b></p><p>​</p><p>We may collect, store and use the following kinds of personal but anonymous information:</p><ol><li>Information about your device and about your use of TotalCloud app.</li><li>Information relating to any transactions carried out between you and us on or in relation to TotalCloud app., including information relating to any purchases you make of our goods or services.</li><li>Information that you provide to us for the purpose of registering with us.</li><li>Any other information that you choose to send to us.</li></ol><p>&nbsp;</p><p><b>Registration:</b></p><p>&nbsp;</p><p>In order to use TotalCloud effectively, a user must first complete the registration form. During registration a user is required to give certain information (such as email address). This information is used to contact you about further upgrades to our products/services in which you have expressed interest.&nbsp;</p><p>&nbsp;</p><p><b>Security:</b></p><p>&nbsp;</p><p>We take precautions to protect your information. When you submit sensitive information via the software, your information is protected. Wherever we collect sensitive information (such as a secret key), that information is encrypted and transmitted to us in a secure way. All communication from TotalCloud client and TotalCloud servers are over encrypted channels (TLS/SSL) and follows industry best practices and is kept upto date with latest security guidelines.</p><p>&nbsp;</p><p>TotalCloud implements AWS best practices while accessing your account. Cross-Account Access is the preferred route but we also provide the option to use access keys. None of the your AWS data is stored on the server and is only fetched on demand. All your data are permanently deleted from our servers if you delete your TotalCloud account. In such a situation, your AWS data will not be affected.</p><p>&nbsp;</p><p>All credentials and password are uniquely salted and strong hashed and cannot be retrieved by anyone including TotalCloud staff.</p><p>&nbsp;</p><p><b>Cookies:&nbsp;</b></p><p>&nbsp;</p><p>TotalCloud uses “cookies”. A cookie is a piece of data stored on a user’s hard drive to help us improve your user experience. Cookies can enable us to track and target the interests of our users to enhance the user experience of TotalCloud. Usage of a cookie is in no way linked to any personally identifiable information on TotalCloud.</p><p>&nbsp;</p><p><b>Updates:</b></p><p>&nbsp;</p><p>Our Privacy Policy may change from time to time and all updates will be posted on this page.</p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1n",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Totalcloud Inc."
-        },
-        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1324,14 +1384,10 @@
           "_name": "extMsg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
+              "font-size": "36px"
             }
           },
-          "_anchor": "extMsg-box4-9t",
+          "_anchor": "extMsg-box4-8t",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -1341,7 +1397,7 @@
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1352,12 +1408,32 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscriber Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
         },
         {
           "_tags": [
@@ -1383,7 +1459,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1505,13 +1581,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -1627,7 +1703,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -1644,14 +1720,10 @@
           "_name": "extMsg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
+              "font-size": "36px"
             }
           },
-          "_anchor": "extMsg-box4-9u",
+          "_anchor": "extMsg-box4-8u",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -1661,7 +1733,7 @@
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_1.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1672,12 +1744,12 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscriber Now</a>"
         },
         {
           "_tags": [
@@ -1703,7 +1775,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1825,13 +1897,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -1938,49 +2010,6 @@
           "text": "<p><br></p><p>Please read the following terms and conditions carefully before using this SOFTWARE PRODUCT. Your use, distribution or installation of this copy of TotalCloud indicates your acceptance of this License.</p><p>&nbsp;</p><ul><li>SOFTWARE PRODUCT here means Software, image files, all accompanying files, data and materials received with your order of TotalCloud.</li></ul><p>&nbsp;</p><ul><li>If you do not agree to any of the terms of this License, then do not install,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">distribute or use the SOFTWARE PRODUCT. If you have purchased a single copy from Kandor Soft Labs Private Limited or an authorized distributor, reseller or any retail channel, you may return it unused. No refund or warranty of any kind will be provided by Kandor Soft Labs Private Limited.</span></li></ul><p>&nbsp;</p><ul><li>This SOFTWARE PRODUCT is for personal use only and may be installed and used by on only one computer. Its component parts may not be separated for use on more than one computer. SOFTWARE PRODUCT may be accessed through a network only after obtaining a site license. All components accompanying the software are copyrighted by Kandor Soft Labs Private Limited and may not be taken apart, modified, used or published with other software or means except with the SOFTWARE PRODUCT and may not be distributed or copied in any manner.</li></ul><p>&nbsp;</p><ul><li>This SOFTWARE PRODUCT, all accompanying files, data and materials, are distributed \"AS IS\" and with no warranties of any kind, whether express or implied. The user must assume all risk of using the program. This disclaimer of warranty constitutes an essential part of the agreement.&nbsp;</li></ul><p>&nbsp;</p><ul><li>In no event shall Kandor Soft Labs Private Limited, or its principals, shareholders, officers, employees, affiliates, contractors, subsidiaries, or parent organizations, be liable for any incidental, consequential, punitive or any other damages whatsoever relating to the use of SOFTWARE PRODUCT.</li></ul><p>&nbsp;</p><ul><li>In addition, in no event does Kandor Soft Labs Private Limited authorize you to use this SOFTWARE PRODUCT in applications or systems where SOFTWARE PRODUCT 's failure to perform can reasonably be expected to result in a physical injury, or in loss of life. Any such use by you is entirely at your own risk, and you agree to hold Kandor Soft Labs Private Limited harmless from any claims or losses relating to such unauthorized use.</li></ul><p>&nbsp;</p><p>This Agreement constitutes the entire statement of the Agreement between the parties on the subject matter, and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements. This Agreement shall be governed by the laws of India.</p><p>&nbsp;</p><p>Kandor Soft Labs Private Limited, the owner of the copyright of this SOFTWARE PRODUCT, all of its derivatives,title and accompanying materials are the exclusive property of Kandor Soft Labs Private Limited. All rights of any kind, which are not expressly granted in this License, are entirely and exclusively reserved to and by Kandor Soft Labs Private Limited. You may not rent, lease, transfer, modify, translate, reverse engineer, de-compile, disassemble or create derivative works based on this SOFTWARE PRODUCT. You may not make access to SOFTWARE PRODUCT available to others in connection with a service bureau, application service provider, or similar business, or use this SOFTWARE PRODUCT in a business to provide file compression, decompression, or conversion services to others. There are no third party beneficiaries of any promises, obligations or representations made by&nbsp;</p><p>Kandor Soft Labs Private Limited herein.</p><p>&nbsp;</p><p>You may not disclose to other persons the data or techniques relating to this SOFTWARE PRODUCT that you know or should know that it is a trade secret of the Kandor Soft Labs Private Limited in any manner that will cause damage to Kandor Soft Labs Private Limited.</p><p>&nbsp;</p><p>This SOFTWARE PRODUCT and all services provided may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of your Country, State or City law is strictly prohibited. This includes, but is not limited to: copyrighted material, material we judge to be threatening or obscene, or material protected by trade secret and other statute. You agree to indemnify and hold&nbsp;</p><p>Kandor Soft Labs Private Limited harmless from any claims resulting from the use of this SOFTWARE PRODUCT, which may damage any other party.</p><p><br></p>"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box4",
-          "_styles": {
-            "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "extMsg-box4-9v",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgText": "",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#5e5546",
-            "bgTextSize": "100",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1991,7 +2020,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -1999,6 +2028,45 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "extMsg-box4-8q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgText": "",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "100",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
+            "bgColor": "#3d3d3d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Get Started with free account",
+          "text": "try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscriber Now</a>"
         },
         {
           "_tags": [
@@ -2024,7 +2092,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2135,7 +2203,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2250,7 +2318,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -2283,7 +2351,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2406,13 +2474,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -2523,7 +2591,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -2556,7 +2624,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2679,13 +2747,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#28324e",
@@ -2760,7 +2828,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2795,7 +2863,7 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2862,7 +2930,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_linux_x86_64.tar.gz\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2874,7 +2942,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2886,7 +2954,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2908,7 +2976,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -2941,7 +3009,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3038,42 +3106,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-80",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9c",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -3091,11 +3123,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-93",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3107,7 +3139,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Cloud Operations",
           "text": "<p><b>One single view to analyze and act</b></p>",
@@ -3197,7 +3229,49 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Product Features",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-80",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
         },
         {
           "_tags": [
@@ -3215,11 +3289,11 @@
           "_anchor": "msg-box5-6c",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3256,7 +3330,7 @@
               "size": 0
             }
           },
-          "title": "Operations\u001b",
+          "title": "Operations",
           "text": "Where you analyse is where you operate<br><br>Save time and effort on operational debugging and cloud operations<br><br>Act on rogue resources, manage other critical activites in a single pane.<br><br>Supports all the major cloud operations, <a href=\"subscribe.html\">contact us</a>&nbsp;for detailed product overview.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -3271,7 +3345,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -3295,17 +3369,17 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "extMsg-box4-9w",
+          "_anchor": "extMsg-box4-7p",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3316,12 +3390,12 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -3347,7 +3421,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3444,24 +3518,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9d",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -3479,11 +3535,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-90",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3495,7 +3551,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Automation",
           "text": "<p><b>Automate your Devops and Reduce your AWS costs</b></p>",
@@ -3588,6 +3644,48 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-81",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Product Features",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-82",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3607,7 +3705,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3668,7 +3766,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3720,7 +3818,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -3744,17 +3842,17 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "extMsg-box4-9x",
+          "_anchor": "extMsg-box4-7q",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3765,12 +3863,12 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -3796,7 +3894,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3893,24 +3991,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9g",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -3928,11 +4008,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-95",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3944,11 +4024,35 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Security Compliance",
-          "text": "<p><b>Secure your cloud deployments with continuous monitoring</b></p>",
+          "text": "<p><b>Article header with background image and parallax effect.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-83",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Product Features",
+          "meta": ""
         },
         {
           "_styles": {
@@ -4040,6 +4144,24 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-84",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_styles": {
             "P": {
@@ -4056,7 +4178,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4108,7 +4230,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -4132,17 +4254,17 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "extMsg-box4-9y",
+          "_anchor": "extMsg-box4-7r",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4153,12 +4275,12 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -4184,7 +4306,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -4281,24 +4403,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9i",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -4316,11 +4420,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-94",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4332,11 +4436,53 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Cost Insights",
           "text": "<p><b>Save on your AWS costs with key insights on cost leakages</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-85",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Product Features",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-86",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
         },
         {
           "_styles": {
@@ -4444,7 +4590,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4496,7 +4642,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -4520,17 +4666,17 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "extMsg-box4-9z",
+          "_anchor": "extMsg-box4-7s",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4541,12 +4687,12 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -4572,7 +4718,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -4669,24 +4815,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9k",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -4712,7 +4840,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3m",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -4728,7 +4856,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Cost Analyzer",
           "text": "<p><b>Interactively visualize all your costs right on top of your Inventory. Slice and dice the overall costs in real time by grouping resources using multiple parameters</b></p>",
@@ -4821,6 +4949,48 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-87",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Product Features",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-88",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -4840,7 +5010,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4859,7 +5029,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1111-1400x939.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled12-1400x935.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4901,7 +5071,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4962,7 +5132,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -5004,26 +5174,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-13",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Totalcloud Inc."
-        },
-        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -5038,17 +5188,17 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "extMsg-box4-a0",
+          "_anchor": "extMsg-box4-7t",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -5059,12 +5209,32 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
         },
         {
           "_tags": [
@@ -5090,7 +5260,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -5177,36 +5347,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "social-buttons1-9s",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "Share!"
         }
       ]
     },
@@ -5216,24 +5356,6 @@
         "meta_descr": "Understand & compare the current pricing of the EC2 instances in realtime."
       },
       "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9m",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
         {
           "_styles": {
             ".mbr-section-title, p": {
@@ -5264,7 +5386,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3q",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -5280,7 +5402,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Resource Pricing",
           "text": "<p><b>Understand the real time pricing of resources</b></p>",
@@ -5373,6 +5495,64 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": true,
+            "showMedia": true,
+            "imageSize": 50,
+            "inverse": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@ADDON_DIR@_images/header5.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "title": "Product Features",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-8c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -5392,7 +5572,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -5434,26 +5614,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1g",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Totalcloud Inc."
-        },
-        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -5461,24 +5621,20 @@
           "_name": "extMsg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
+              "font-size": "36px"
             }
           },
-          "_anchor": "extMsg-box4-a1",
+          "_anchor": "extMsg-box4-8g",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -5489,12 +5645,37 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showMedia": true,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
         },
         {
           "_tags": [
@@ -5520,7 +5701,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -5617,24 +5798,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9o",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -5652,11 +5815,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-92",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -5668,7 +5831,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "RI Usage",
           "text": "<p><b>Understand the current RI Usage &nbsp;</b></p>",
@@ -5758,7 +5921,49 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Product Features",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-8e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
         },
         {
           "_tags": [
@@ -5780,7 +5985,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -5822,26 +6027,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1j",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Totalcloud Inc."
-        },
-        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -5849,24 +6034,20 @@
           "_name": "extMsg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
+              "font-size": "36px"
             }
           },
-          "_anchor": "extMsg-box4-a2",
+          "_anchor": "extMsg-box4-8f",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -5877,12 +6058,32 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1j",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
         },
         {
           "_tags": [
@@ -5908,7 +6109,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -6005,6 +6206,180 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5t",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "PRICING",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#28324e"
+            },
+            ".mbr-plan-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-label B": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            },
+            ".mbr-plan-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-5s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "hidden",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "",
+          "subtitle": "Enjoy 30-day free trial, No credit card required.",
+          "label1": "HOT!",
+          "title1": "STANDARD",
+          "subtitle1": "Description",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "/mo.",
+          "description1": "More details",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label2": "<b>Free!</b>",
+          "title2": "BASIC",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "0",
+          "period2": "/mo.",
+          "description2": "No additional cost<br><br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Limited Features (Cost Analyzer, Usage Monitoring)</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
+          "label3": "HOT!",
+          "title3": "PREMIUM",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "49",
+          "period3": "/mo.",
+          "description3": "$25/mo -Compliance &amp; Insights (Optional) +<br>$25/mo -Operations &amp; Automation (Optional) &nbsp;&nbsp;<br>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend less than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">All Features</li><li class=\"list-group-item\">Support- Email, Chat and Phon<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">e</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><br></span></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "",
+          "currency4": "",
+          "price4": "",
+          "period4": "<a href=\"Pricing.html\">Contact Us</a>",
+          "description4": "Special pricing based on the usage<br><br>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend more than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">All Features</li><li class=\"list-group-item\">Business Support - Email, Chat, Phone &amp; Account Manage<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">r</span><br></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "color": "#28324e"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Discount on Annual plans<span style=\"font-weight: normal;\"> : 12 months of service at a price of 10 with any annual plan</span><span style=\"font-weight: normal;\"><br></span>MSPs &amp; Consulting Partners: &nbsp;<span style=\"font-weight: normal;\">Contact us to get</span>&nbsp;<span style=\"font-weight: normal;\">Special</span> <span style=\"font-weight: normal;\">pricing</span><span style=\"font-weight: normal;\">&nbsp;</span><span style=\"font-weight: normal;\"><br></span>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-5a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Totalcloud Inc."
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -6087,162 +6462,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-98",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Pricing",
-          "text": "<p>Enjoy 30-day free trial, No credit card required..</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#28324e"
-            },
-            ".mbr-plan-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-plan-label B": {
-              "font-size": "24px",
-              "color": "#ffffff"
-            },
-            ".mbr-plan-title": {
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-99",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "hidden",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "",
-          "subtitle": "",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "/mo.",
-          "description1": "More details",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label2": "<b>Free!</b>",
-          "title2": "BASIC",
-          "subtitle2": "",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "No additional cost<br><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Limited Features (Cost Analyzer, Usage Monitoring)</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "",
-          "currency3": "$",
-          "price3": "49",
-          "period3": "/mo.",
-          "description3": "$25/mo -Compliance &amp; Insights (Optional) +<br>$25/mo -Operations &amp; Automation (Optional) &nbsp;&nbsp;<br>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend less than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">All Features</li><li class=\"list-group-item\">Support- Email, Chat and Phon<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">e</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><br></span></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "",
-          "currency4": "",
-          "price4": "",
-          "period4": "<a href=\"Pricing.html\">Contact Us</a>",
-          "description4": "Special pricing based on the usage<br><br>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">\u001bAWS spend more than $10000/month\u001b\u001b&nbsp;</li><li class=\"list-group-item\">Multiple users</li><li class=\"list-group-item\">All Features</li><li class=\"list-group-item\">Business Support - Email, Chat, Phone &amp; Account Manage<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">r</span><br></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"subscribe.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "18px",
-              "color": "#28324e"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-9a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "3",
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Discount on Annual plans<span style=\"font-weight: normal;\"> : 12 months of service at a price of 10 with any annual plan</span><span style=\"font-weight: normal;\"><br></span>MSPs &amp; Consulting Partners: &nbsp;<span style=\"font-weight: normal;\">Contact us to get</span>&nbsp;<span style=\"font-weight: normal;\">Special</span> <span style=\"font-weight: normal;\">pricing</span><span style=\"font-weight: normal;\">&nbsp;</span><span style=\"font-weight: normal;\"><br></span>",
-          "meta": ""
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -6268,7 +6488,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -6355,26 +6575,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1d",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Totalcloud Inc."
         }
       ]
     },
@@ -6407,7 +6607,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
@@ -6544,7 +6744,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -6577,7 +6777,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -6852,7 +7052,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -6870,7 +7070,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-2-2000x820.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled%202-2000x820.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6923,7 +7123,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -6940,14 +7140,10 @@
           "_name": "extMsg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
+              "font-size": "36px"
             }
           },
-          "_anchor": "extMsg-box4-a3",
+          "_anchor": "extMsg-box4-96",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -6957,7 +7153,7 @@
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_1.jpg",
             "bgColor": "#3d3d3d",
             "bgColorRadio": true,
             "bgVideo": {
@@ -6968,12 +7164,12 @@
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -6999,7 +7195,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -7096,24 +7292,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "buttons1-9q",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -7131,11 +7309,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-8i",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -7147,11 +7325,35 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Monitoring",
-          "text": "<b>Rich visualisation of monitoring information right on top of your cloud infrastructure.</b>",
+          "text": "<b>Monitor your resource utilization based on various key metrics in real time.</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#121f43",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-89",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Product Features",
+          "meta": ""
         },
         {
           "_styles": {
@@ -7243,6 +7445,24 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "buttons1-8a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-usage-monitoring.html\" data-toolbar=\"-mbrBtnMove\">Monitoring</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature-cost-analyzer.html\" data-toolbar=\"-mbrBtnMove\">Cost Analyzer</a>   <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Cloud Operation.html\" data-toolbar=\"-mbrBtnMove\">Operations</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Automation.html\" data-toolbar=\"-mbrBtnMove\">Automation</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Features-Insights.html\" data-toolbar=\"-mbrBtnMove\">Insights</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Feature- Security- Compliance.html\" data-toolbar=\"-mbrBtnMove\">Security</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {
@@ -7260,7 +7480,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -7298,7 +7518,7 @@
             }
           },
           "title": "Monitor resource usage",
-          "text": "A static report on a constantly changing cloud environment does not give the right picture. Get dynamic real time view of the utilization right on top of the inventory.<br><br>Color coding makes it easier to understand the usage.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operation</a><br>",
+          "text": "A static report on a constantly changing cloud environment does not give the right picture.<br><br>Analyse current and historical resource utilization in a single view.<br><br>Color coding makes it easier to understand the usage.<br><br>Use multiple kye metrics to understand the resource utilization.<br><br>Group resources and know which application groups are under utilised or over utilised. Take action on the resource without having to switch windows. check <a href=\"Feature- Cloud Operation.html\">cloud operation</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -7398,7 +7618,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -7436,7 +7656,7 @@
             }
           },
           "title": "Get all your cloudwatch metrics",
-          "text": "Switch to any key metric and monitor i\u001bn real time<br><br>Push any custom metrics to cloudwatch &amp; get them on totalcloud dynamically, no need of additional configuration.<br><br><br>",
+          "text": "Switch to any key metrics and monitor i\u001bn real time<br><br>Push any custom metrics to cloudwatch &amp; get them on totalcloud dynamically, no need of additional configuration.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -7460,7 +7680,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -7498,8 +7718,47 @@
             }
           },
           "title": "Understand live elb connection status",
-          "text": "Quickly validate the status of all elb connections and take action. check&nbsp;<a href=\"Feature- Cloud Operation.html\">cloud operation</a>.<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">One single pane of glass to view the entire topology and understand its current status.</span><br>&nbsp;<br>Reduce the overall debugging time to secs. No need to check multiple logs and dashboards.<br>",
+          "text": "Quickly validate the status of all elb connections and take action (for ex, register a new instance).check&nbsp;<a href=\"Feature- Cloud Operation.html\">cloud operation</a>.<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">One single pane of glass to view the entire topology and understand its current status.</span><br>&nbsp;<br>Reduce the overall debugging time to secs. No need to check multiple logs and dashboards.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "extMsg-box4-8h",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgText": "",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "100",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg.jpg",
+            "bgColor": "#3d3d3d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Get Started with free account",
+          "text": "Try for free, you will love it&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -7512,7 +7771,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -7520,49 +7779,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box4",
-          "_styles": {
-            "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "extMsg-box4-a4",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgText": "",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#5e5546",
-            "bgTextSize": "100",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_3.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "title": "Get Started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
           "_tags": [
@@ -7588,7 +7804,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -7681,18 +7897,13 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "22px"
-            }
-          },
           "_anchor": "social-buttons1-8r",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
@@ -7704,7 +7915,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share!"
+          "text": "SHARE THIS PAGE!"
         }
       ]
     }
