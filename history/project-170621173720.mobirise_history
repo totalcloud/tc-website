@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 488,
+    "uniqCompNum": 486,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-and-text.png",
     "noImageResize": "true",
@@ -968,8 +968,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1034,7 +1034,7 @@
             "title": "MESSAGE",
             "action": "pradip.mj@gmail.com",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -1202,7 +1202,7 @@
           ],
           "_name": "menu",
           "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #28324e;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #28324e;\n}\n.link, .dropdown-item {\n\tcolor: #28324e;\n}\n.link {\n\tfont-size: 0.8rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.866rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #e6e6e6;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #f7f7f7!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #ffffff;\n}\n.bg-color.transparent .link {\n\tcolor: #28324e;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_header.png\" alt=\"Totalcloud.io\" title=\"Totalcloud\"></a>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"53\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"54\">Product</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\" code-editable-id=\"55\">Monitoring</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-cost-analyzer.html\" code-editable-id=\"56\">Cost Analyzer</a><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"57\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Cloud Operation.html\" code-editable-id=\"58\">Operations</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Automation.html\" code-editable-id=\"59\">Automation</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"60\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Features-Insights.html\" code-editable-id=\"61\">Insights</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Security- Compliance.html\" code-editable-id=\"62\">Security Compliance</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"63\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-realtime-pricing.html\" code-editable-id=\"64\">Realtime- Pricing</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-RI-Usage.html\" code-editable-id=\"65\">RI Usage</a></div></div></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Pricing.html\" aria-expanded=\"false\" code-editable-id=\"66\">Pricing</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"67\">Security</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"privacy.html\" code-editable-id=\"68\">Privacy</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Security.html\" code-editable-id=\"69\">Security</a></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"FAQ.html\" aria-expanded=\"false\" code-editable-id=\"70\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-info-outline btn-info mbr-editable-menu-item\" href=\"download.html\" code-editable-id=\"71\">GET STARTED</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_header.png\" alt=\"Totalcloud.io\" title=\"Totalcloud\"></a>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"351\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"352\">Product</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\" code-editable-id=\"353\">Monitoring</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-cost-analyzer.html\" code-editable-id=\"354\">Cost Analyzer</a><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"355\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Cloud Operation.html\" code-editable-id=\"356\">Operations</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Automation.html\" code-editable-id=\"357\">Automation</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"358\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Features-Insights.html\" code-editable-id=\"359\">Insights</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Security- Compliance.html\" code-editable-id=\"360\">Security Compliance</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"361\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-realtime-pricing.html\" code-editable-id=\"362\">Realtime- Pricing</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-RI-Usage.html\" code-editable-id=\"363\">RI Usage</a></div></div></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Pricing.html\" aria-expanded=\"false\" code-editable-id=\"364\">Pricing</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"365\">Security</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"privacy.html\" code-editable-id=\"366\">Privacy</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Security.html\" code-editable-id=\"367\">Security</a></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"FAQ.html\" aria-expanded=\"false\" code-editable-id=\"368\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-info-outline btn-info mbr-editable-menu-item\" href=\"download.html\" code-editable-id=\"369\">GET STARTED</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -1213,7 +1213,12 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-dj",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-d3",
           "_params": {
             "labelsColor": "#232323",
             "paddingTop": 3,
@@ -1229,10 +1234,10 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Contact us",
-          "subtitle": "We will get to you at this address shortly",
+          "title": "Contact Us",
+          "subtitle": "We will get back to you at this address",
           "form": {
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1258,111 +1263,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 415-527-0866",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
-          "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
-          "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
-            "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     },
@@ -1573,26 +1474,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1607,7 +1503,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1617,7 +1512,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1627,7 +1521,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1637,15 +1530,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -1669,7 +1566,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -1885,26 +1804,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1919,7 +1833,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1929,7 +1842,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1939,7 +1851,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1949,15 +1860,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -1981,7 +1896,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -2198,26 +2135,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -2232,7 +2164,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2242,7 +2173,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2252,7 +2182,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2262,15 +2191,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -2294,7 +2227,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -2449,26 +2404,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -2483,7 +2433,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2493,7 +2442,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2503,7 +2451,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2513,15 +2460,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -2545,7 +2496,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -2714,26 +2687,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -2748,7 +2716,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2758,7 +2725,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2768,7 +2734,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2778,15 +2743,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -2810,7 +2779,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -3091,26 +3082,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -3125,7 +3111,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -3135,7 +3120,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3145,7 +3129,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -3155,15 +3138,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -3187,7 +3174,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -3473,26 +3482,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -3507,7 +3511,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -3517,7 +3520,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3527,7 +3529,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -3537,15 +3538,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -3569,7 +3574,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -3916,26 +3943,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -3950,7 +3972,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -3960,7 +3981,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3970,7 +3990,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -3980,15 +3999,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -4012,7 +4035,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -4298,26 +4343,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -4332,7 +4372,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -4342,7 +4381,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4352,7 +4390,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -4362,15 +4399,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -4394,7 +4435,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -4678,26 +4741,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -4712,7 +4770,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -4722,7 +4779,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4732,7 +4788,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -4742,15 +4797,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -4774,7 +4833,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -5190,26 +5271,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -5224,7 +5300,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -5234,7 +5309,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5244,7 +5318,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -5254,15 +5327,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -5286,7 +5363,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -5584,26 +5683,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -5618,7 +5712,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -5628,7 +5721,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5638,7 +5730,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -5648,15 +5739,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -5680,7 +5775,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -5966,26 +6083,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -6000,7 +6112,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -6010,7 +6121,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -6020,7 +6130,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -6030,15 +6139,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -6062,7 +6175,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -6338,26 +6473,21 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2x-265x190.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -6372,7 +6502,6 @@
               "size": 0
             }
           },
-          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -6382,7 +6511,6 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 415-527-0866",
           "media2": {
             "iconFont": {
               "active": true,
@@ -6392,7 +6520,6 @@
               "family": "et-line"
             }
           },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
           "media3": {
             "iconFont": {
               "active": true,
@@ -6402,15 +6529,19 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "title1": "Support",
+          "text1": "",
+          "text2": "+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
+          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
           "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
           "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
+            "action": "cloud@totalcloud.io",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for reaching out. We'll get back to you shortly"
             },
             "fields": {
               "name": {
@@ -6434,7 +6565,29 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg); padding-top: 30px; padding-bottom: 30px;\">\n\n\n    <div class=\"row\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(60, 60, 60);\">\n    </div>\n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_footer.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">&nbsp;</p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"133\">+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"134\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789</span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts3\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"135\">cloud@totalcloud.io</span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"136\"><br><br><br><br><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"137\"><li><a href=\"terms.html\">Terms</a><a href=\"terms.html\"></a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"privacy.html\">Privacy</a><a class=\"text-white\" href=\"#\"></a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"138\"><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\"><strong>Resources</strong></span><br><a href=\"about.html\"><br></a><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for reaching out. We'll get back to you shortly</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"t2Cn6+pVGKFkDsynwRooMfKol2vmEuMMcc/u8Vz/vJqgv1ynmxm1C6a853HONaXQeQswPa71c5WALeYOQM4/DiOKk//D3Qi4GIECT4RzcHrt8qIaPLi4O0GRBXfQBYCD\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts3-a9-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts3-a9-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts3-a9-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-black mbr-editable-button\" code-editable-id=\"139\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\ttext-align: center;\n\tcolor: #c0a375;\n}\nSPAN {\n\tcolor: #ffffff;\n\tfont-size: 14px;\n}\nH4 {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-a9"
         }
       ]
     },
@@ -6657,33 +6810,75 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            }
+          },
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": false,
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e4e4e4",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text5": "<li><a class=\"text-primary\" href=\"#\">Terms</a></li><li><a class=\"text-primary\" href=\"#\">Privacy</a></li>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
+          "_tags": [
+            "Theme"
+          ],
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -6691,45 +6886,17 @@
               "size": 0
             }
           },
+          "title1": "<br><br><br>Support",
           "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 415-527-0866",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
-          "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
-          "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
+          "text2": "&nbsp;+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789<br>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">cloud@totalcloud.io</a>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong>Resources</strong><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br>",
           "form": {
             "title": "MESSAGE",
             "action": "pradip.mj@gmail.com",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -6753,7 +6920,13 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_name": "contacts5",
+          "_customCSS": "p, .list-group-text, .form-control-label {\n\tcolor: #000;\n}\nstrong, h4 {\n\tcolor: #7e9b9f;\n}\nform .form-control {\n\tborder-color: rgba(0, 0, 0, 0.2);\n\tcolor: #565656;\n}\n.mbr-footer-content li {\n\tborder-bottom: 1px dotted rgba(0, 0, 0, 0.1);\n}\n.mbr-company .list-group-text::after {\n\tborder-bottom: 1px dotted rgba(0, 0, 0, 0.2);\n}\n",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding\" style=\"background-color: rgb(228, 228, 228); padding-top: 60px; padding-bottom: 60px;\">\n\n\n    <div class=\"row\">\n    \n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_header.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"344\"></p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"345\">&nbsp;+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"346\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789<br></span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"347\"><a href=\"mailto:support@mobirise.com\">cloud@totalcloud.io</a></span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"348\"><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"349\"><li><a class=\"text-primary\" href=\"https://totalcloud.io/terms.html\">Terms</a></li><li><a class=\"text-primary\" href=\"https://totalcloud.io/privacy.html\">Privacy</a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"350\"><strong><br></strong><br><strong><br></strong><strong>Resources</strong><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"rtG1OYlpvxUoPIaPoFHXrCr+t94h1PpMMUn5+1b2spXEcZL4EI23wMEIXzlmGnabUKxDKd9U0ah38vl4CLX2yTCM0WC/fUq8kvIcqpTZRrBeoz54K0dBamzD72pwLYFz\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts5-db-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts5-db-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts5-db-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts5-db-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-info mbr-editable-button\" code-editable-id=\"351\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "contacts5-db"
         }
       ]
     },
@@ -7241,33 +7414,75 @@
           "_anchor": "menu-a7"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            }
+          },
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": false,
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e4e4e4",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text5": "<li><a class=\"text-primary\" href=\"#\">Terms</a></li><li><a class=\"text-primary\" href=\"#\">Privacy</a></li>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
+          "_tags": [
+            "Theme"
+          ],
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -7275,45 +7490,17 @@
               "size": 0
             }
           },
+          "title1": "<br><br><br>Support",
           "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 415-527-0866",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
-          "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
-          "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
+          "text2": "&nbsp;+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789<br>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">cloud@totalcloud.io</a>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong>Resources</strong><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br>",
           "form": {
             "title": "MESSAGE",
             "action": "pradip.mj@gmail.com",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -7337,7 +7524,13 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_name": "contacts5",
+          "_customCSS": "p, .list-group-text, .form-control-label {\n\tcolor: #000;\n}\nstrong, h4 {\n\tcolor: #7e9b9f;\n}\nform .form-control {\n\tborder-color: rgba(0, 0, 0, 0.2);\n\tcolor: #565656;\n}\n.mbr-footer-content li {\n\tborder-bottom: 1px dotted rgba(0, 0, 0, 0.1);\n}\n.mbr-company .list-group-text::after {\n\tborder-bottom: 1px dotted rgba(0, 0, 0, 0.2);\n}\n",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding\" style=\"background-color: rgb(228, 228, 228); padding-top: 60px; padding-bottom: 60px;\">\n\n\n    <div class=\"row\">\n    \n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_header.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"310\"></p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"311\">&nbsp;+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"312\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789<br></span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"313\"><a href=\"mailto:support@mobirise.com\">cloud@totalcloud.io</a></span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"314\"><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"315\"><li><a class=\"text-primary\" href=\"#\">Terms</a></li><li><a class=\"text-primary\" href=\"#\">Privacy</a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"316\"><strong><br></strong><br><strong><br></strong><strong>Resources</strong><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"rtG1OYlpvxUoPIaPoFHXrCr+t94h1PpMMUn5+1b2spXEcZL4EI23wMEIXzlmGnabUKxDKd9U0ah38vl4CLX2yTCM0WC/fUq8kvIcqpTZRrBeoz54K0dBamzD72pwLYFz\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts5-db-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts5-db-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts5-db-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts5-db-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-info mbr-editable-button\" code-editable-id=\"317\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "contacts5-db"
         }
       ]
     },
@@ -9085,33 +9278,75 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dg",
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            }
+          },
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": false,
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e4e4e4",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text5": "<li><a class=\"text-primary\" href=\"#\">Terms</a></li><li><a class=\"text-primary\" href=\"#\">Privacy</a></li>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
+          "_tags": [
+            "Theme"
+          ],
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -9119,45 +9354,17 @@
               "size": 0
             }
           },
+          "title1": "<br><br><br>Support",
           "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 415-527-0866",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
-          "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
-          "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
+          "text2": "&nbsp;+1 415-527-0866",
+          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789<br>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">cloud@totalcloud.io</a>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong>Resources</strong><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br>",
           "form": {
             "title": "MESSAGE",
             "action": "pradip.mj@gmail.com",
             "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -9181,7 +9388,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "_name": "contacts5",
+          "_customHTML": "<section class=\"mbr-footer mbr-section mbr-section-md-padding\" style=\"background-color: rgb(228, 228, 228); padding-top: 60px; padding-bottom: 60px;\">\n\n\n    <div class=\"row\">\n    \n            <div class=\"mbr-company col-xs-12 col-md-6 col-lg-3\">\n\n                <div class=\"mbr-company card\">\n                    <div><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_header.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"388\"></p>\n                    </div>\n                    <ul class=\"list-group list-group-flush\">\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-phone mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"389\">&nbsp;+1 415-527-0866</span>\n                        </li>\n                        <li class=\"list-group-item\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-map-pin mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"390\">TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789<br></span>\n                        </li>\n                        <li class=\"list-group-item active\">\n                            <span class=\"list-group-icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-company-contacts5\"></span></span>\n                            <span class=\"list-group-text mbr-editable-content\" code-editable-id=\"391\"><a href=\"mailto:support@mobirise.com\">cloud@totalcloud.io</a></span>\n                        </li>\n                    </ul>\n                </div>\n\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <h4 class=\"mbr-editable-content\" code-editable-id=\"392\"><br><br><br>Support</h4>\n                <ul class=\"mbr-editable-content\" code-editable-id=\"393\"><li><a class=\"text-primary\" href=\"#\">Terms</a></li><li><a class=\"text-primary\" href=\"#\">Privacy</a></li></ul>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-6 col-lg-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"394\"><strong><br></strong><br><strong><br></strong><strong>Resources</strong><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twiiter</a><br></p>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-lg-3\" data-form-type=\"formoid\">\n\n                <div data-form-alert=\"true\">\n                    <div hidden=\"\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                </div>\n\n                <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"MESSAGE\">\n\n                    <input type=\"hidden\" value=\"rtG1OYlpvxUoPIaPoFHXrCr+t94h1PpMMUn5+1b2spXEcZL4EI23wMEIXzlmGnabUKxDKd9U0ah38vl4CLX2yTCM0WC/fUq8kvIcqpTZRrBeoz54K0dBamzD72pwLYFz\" data-form-email=\"true\">\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts5-db-email\">Email<span class=\"form-asterisk\">*</span></label>\n                        <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"contacts5-db-email\">\n                    </div>\n\n                    \n\n                    <div class=\"form-group\">\n                        <label class=\"form-control-label\" for=\"contacts5-db-message\">Message</label>\n                        <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"5\" id=\"contacts5-db-message\"></textarea>\n                    </div>\n\n                    <div><button type=\"submit\" class=\"btn btn-sm btn-info mbr-editable-button\" code-editable-id=\"395\">Contact us</button></div>\n\n                </form>\n\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "contacts5-db"
         }
       ]
     }
