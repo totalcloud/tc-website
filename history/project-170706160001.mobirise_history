@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "download.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 505,
+    "uniqCompNum": 489,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-and-text.png",
     "noImageResize": "true",
@@ -129,7 +129,7 @@
             "showButton": false
           },
           "title": "Visual &amp; Interactive Cloud Management Platform",
-          "text": "<h4><i style=\"line-height: 1.1;\"><br></i></h4><h4><span style=\"line-height: 1.1;\">Next-Gen Interface to your Cloud</span></h4><h4><span style=\"font-size: 1.07rem; font-weight: normal; line-height: 1.5;\">Currently supporting AWS</span></h4>",
+          "text": "<h4><i style=\"line-height: 1.1;\"><br></i></h4><h4><span style=\"line-height: 1.1;\">Next-Gen Interface to your Cloud</span><br></h4><h4><span style=\"font-size: 1.07rem; font-weight: normal; line-height: 1.5;\">\u001b\u001b\u001b\u001bCurrently supporting AWS</span></h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
         },
         {
@@ -162,7 +162,7 @@
             "paddingBottom": "5",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-05-22-at-4.34.51-pm.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -192,7 +192,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>   "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-06-08-at-7.48.41-pm.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1107,13 +1107,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Totalcloud Inc."
         },
@@ -1220,19 +1220,19 @@
           },
           "_anchor": "form1-dj",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Contact us",
           "subtitle": "We will get back to you at this address shortly",
@@ -1275,13 +1275,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -2865,6 +2865,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features1-ai",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -2972,12 +2977,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/logo-2.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"309\">Microsoft Windows</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"310\"></h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"311\">Supports Windows 7 and above versions</p>\n                        <div class=\"card-btn\"><a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_win_x86_64.zip\" onclick=\"ga('send','event', 'Download_Win','click','downloads');\" ;=\"\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"312\">Download</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/images.jpeg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"313\"><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Macintosh</span><br></h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"314\"></h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"315\">All versions of Mac OS</p>\n                        <div class=\"card-btn\"><a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_mac_x86_64.zip\" onclick=\"ga('send','event', 'Download_Mac','click','downloads');\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"316\">Download</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/linux-icon.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"317\"><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Linux</span><br></h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"318\"></h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"319\">All distributions of Linux OS</p>\n                        <div class=\"card-btn\"><a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_linux_x86_64.tar.gz\" onclick=\"ga('send','event', 'Download_Lin','click','downloads');\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"320\">Download</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".striped .mbr-cards-col:nth-child(2n+1) {\n\tbackground-color: #2e2e2e;\n}\n",
-          "_customTemplate": true
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -6174,14 +6174,14 @@
           "description1": "More details",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label2": "",
-          "title2": "Free",
+          "label2": "<b>Free!</b>",
+          "title2": "BASIC",
           "subtitle2": "",
           "currency2": "$",
           "price2": "0",
           "period2": "/mo.",
           "description2": "No additional cost<br><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Topology View, Cost Analyzer, <span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Contextual Monitoring</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Cost Analyzer, Contextual Monitoring</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"download.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Download Now</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
@@ -9182,1063 +9182,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        }
-      ]
-    },
-    "page20.html": {
-      "settings": {
-        "title": "Visual & Interactive Management of Cloud",
-        "meta_descr": "Virtual platform to visualize cloud topology &  monitor resources in realtime",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #28324e;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #28324e;\n}\n.link, .dropdown-item {\n\tcolor: #28324e;\n}\n.link {\n\tfont-size: 0.8rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.866rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #e6e6e6;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #f7f7f7!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #ffffff;\n}\n.bg-color.transparent .link {\n\tcolor: #28324e;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"https://s3.amazonaws.com/totacloud.io/Logo/Logo_header.png\" alt=\"Totalcloud.io\" title=\"Totalcloud\"></a>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"166\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"167\">Product</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\" code-editable-id=\"168\">Monitoring</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-cost-analyzer.html\" code-editable-id=\"169\">Cost Analyzer</a><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"170\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Cloud Operation.html\" code-editable-id=\"171\">Operations</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Automation.html\" code-editable-id=\"172\">Automation</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"173\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Features-Insights.html\" code-editable-id=\"174\">Insights</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature- Security- Compliance.html\" code-editable-id=\"175\">Security Compliance</a></div></div><div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"176\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-realtime-pricing.html\" code-editable-id=\"177\">Realtime- Pricing</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Feature-RI-Usage.html\" code-editable-id=\"178\">RI Usage</a></div></div></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Pricing.html\" aria-expanded=\"false\" code-editable-id=\"179\">Pricing</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"180\">Security</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"privacy.html\" code-editable-id=\"181\">Privacy</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Security.html\" code-editable-id=\"182\">Security</a></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"FAQ.html\" aria-expanded=\"false\" code-editable-id=\"183\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-info-outline btn-info mbr-editable-menu-item\" href=\"download.html\" code-editable-id=\"184\">GET STARTED</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true,
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo_1_b1-385x128.png",
-              "height": 128,
-              "alt": "Totalcloud.io",
-              "link": "index.html",
-              "title": "Totalcloud",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Product</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-monitoring.html\" aria-expanded=\"false\">Monitoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-cost-analyzer.html\">Cost Analyzer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Operations &amp; Automation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Cloud Operation.html\">Operations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Automation.html\">Automation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Insights &amp; Security</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Features-Insights.html\">Insights</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature- Security- Compliance.html\">Security Compliance</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Pricing &amp; RI</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-realtime-pricing.html\">Realtime- Pricing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feature-RI-Usage.html\">RI Usage</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing.html\" aria-expanded=\"false\">Pricing</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Security</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\">Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security.html\">Security</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\" aria-expanded=\"false\">FAQ's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"subscribe.html\">GET STARTED</a></li>",
-          "_anchor": "menu-dl"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#121f43",
-              "font-size": "32px"
-            },
-            ".lead P": {
-              "color": "#121f43"
-            },
-            ".lead H4": {
-              "color": "#121f43",
-              "font-size": "20px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-dm",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Visual &amp; Interactive Cloud Management Platform",
-          "text": "<h4><i style=\"line-height: 1.1;\"><br></i></h4><h4><span style=\"line-height: 1.1;\">Next-Gen Interface to your Cloud</span><br></h4><h4><span style=\"font-size: 1.07rem; font-weight: normal; line-height: 1.5;\">\u001b\u001b\u001b\u001bCurrently supporting AWS</span></h4>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"subscribe.html\" data-toolbar=\"-mbrBtnMove\">Subscribe Now</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-dn",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"download.html\" data-toolbar=\"-mbrBtnMove\">Download Now</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-lead": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_params": {
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": "1",
-            "paddingBottom": "5",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-05-22-at-4.34.51-pm.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0.2",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-06-08-at-7.45.16-pm.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>   "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-06-08-at-7.48.41-pm.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>   "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-05-22-at-5.03.26-pm.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>   "
-              }
-            ],
-            "bgColor": "#fff",
-            "showBullets": false
-          },
-          "_anchor": "slider2-do"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "25px",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-dp",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgColor": "#28324e"
-          },
-          "text": "<p><b>Monitor, Analyze and Operate in a virtual environment</b></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Redefining the way you interact with Cloud Infrastructure</span><br></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "30px",
-              "color": "#28324e"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-dq",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Key Benefits&nbsp;",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures5",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#e6e6e6 !important"
-            },
-            ".wraper": {
-              "border-color": "#e6e6e6 !important"
-            },
-            "H4": {
-              "color": "#28324e"
-            },
-            "P": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "extFeatures5-dr",
-          "_params": {
-            "iconsBgColor": "#e6e6e6",
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": 3,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "showImages": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "preview",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6"
-            }
-          },
-          "title1": "Visibility",
-          "subtitle1": "Single view of entire cloud",
-          "caption1": "Gain complete visibility of your complex IT infrastructure with a single topology view",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "features",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6"
-            }
-          },
-          "title2": "Contextual Insights",
-          "subtitle2": "Analyze data in Resource Context",
-          "caption2": "Key metrics &amp; Cost data are aggregated and overlayed on IT resources in a rich color coded format. Group resources and analyze data in the resource context",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "tools-2",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6"
-            }
-          },
-          "title3": "Troubleshooting",
-          "subtitle3": "Locate &amp; Fix issues in a single view",
-          "caption3": "Debug issues at a glance and take corresponding actions right there. Improve operational effectiveness and reduce downtime&nbsp;",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "compass",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
-        },
-        {
-          "_styles": {
-            ".feature-title, .description": {
-              "color": "#232323"
-            },
-            ".feature-subtitle": {
-              "color": "#8c8c8c"
-            },
-            "P": {
-              "font-size": "14px"
-            },
-            ".mbr-section-title": {
-              "color": "#28324e",
-              "font-size": "36px"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "desktop",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "feature_title3": "Translation ready",
-          "feature_subtitle3": "Find a common language with anyone",
-          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title6": "Awesome parallax",
-          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
-          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures8",
-          "_anchor": "extFeatures8-ds",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "/addons/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.75,
-            "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true
-          },
-          "title": "Topology View",
-          "subtitle": "Dynamically group all correlated IT resources&nbsp;",
-          "feature_title1": "Auto-Grouping",
-          "feature_subtitle1": "",
-          "feature_text1": "No need of tagging any resources anymore. Application view will group resources dynamically based on their correlation \u001b",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "action-group-work",
-              "family": "Material-Design-Icons",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title2": "Topology view",
-          "feature_subtitle2": "",
-          "feature_text2": "View all correlations between resources in a single view along with current status",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "diagram-2",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media": {
-            "image": {
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-06-08-at-7.48.41-pm.png",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "target-group",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title4": "Dynamic Grouping",
-          "feature_subtitle4": "",
-          "feature_text4": "Group resources by applications, tag-key, tag-value, resource type, VPC-Id and many more",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "clock",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title5": "&nbsp; &nbsp;RealTime Monitoring",
-          "feature_subtitle5": "",
-          "feature_text5": "Understand the realtime relationship status along with resource utilization. All data is aggregated in realtime."
-        },
-        {
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "desktop",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "feature_title3": "Translation ready",
-          "feature_subtitle3": "Find a common language with anyone",
-          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title6": "Awesome parallax",
-          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
-          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures8",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "Monitoring",
-          "subtitle": "Get real-time monitoring information for all resources in one view",
-          "feature_title1": "Single view<br>",
-          "feature_subtitle1": "",
-          "feature_text1": "Real-time view of &nbsp;all resources in a single pane of glass across multiple metrics",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "preview",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title2": "Visualisation",
-          "feature_subtitle2": "",
-          "feature_text2": "Get instant usage view with rich color coding. The color represents the current usage level. Red is high and blue is low&nbsp;",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "dashboard",
-              "family": "FontAwesome",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media": {
-            "image": {
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-10-at-7-2390x1600.png",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "bar-chart",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title4": "Hostorical Analysis",
-          "feature_subtitle4": "",
-          "feature_text4": "Understand the historal usage pattern for individual resources across multiple metrics with interactive graphs",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "tools-2",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title5": "Custom Metrics",
-          "feature_subtitle5": "",
-          "feature_text5": "Add any custom metric to cloudwatch and instantly visualise them on the platform. No additional changes required.",
-          "_customCSS": "@import url(undefined);\n.feature-title, .description {\n\tcolor: #232323;\n}\n.feature-subtitle {\n\tcolor: #8c8c8c;\n}\n.feature-title {\n\tfont-size: 20px;\n}\n",
-          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(18, 31, 67); font-size: 36px;\" code-editable-id=\"396\">Contextual Monitoring</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"397\">Get a bird's eye view of real-time monitoring information overlayed on IT resources</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"398\">Single view<br></div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"399\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"400\">Real-time view of &nbsp;all resources in a single pane of glass across multiple metrics</p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"mbri-preview mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"401\">Contextual Data Visualization</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"402\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"403\">Get instant usage details right on top of your inventory with rich color coding. The color represents the current usage level based on the selected metric.&nbsp;</p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"fa fa-dashboard mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/untitled13.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"imind-bar-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"404\">Historical Analysis</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"405\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"406\">Understand the historical usage pattern for individual resources across multiple metrics with interactive graphs</p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"etl-icon icon-tools-2 mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"407\">Custom Metrics</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"408\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"409\">Add any custom metric to cloudwatch and instantly visualize them on the platform. No additional changes required.<br><br></p>\n\n                        \n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn mbr-editable-button btn-black\" href=\"Feature-monitoring.html\" code-editable-id=\"410\">Learn More</a></div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true,
-          "_anchor": "extFeatures8-dt"
-        },
-        {
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "desktop",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "feature_title3": "Translation ready",
-          "feature_subtitle3": "Find a common language with anyone",
-          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title6": "Awesome parallax",
-          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
-          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures8",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "Cost Analyzer",
-          "subtitle": "Interactively build your cost perspective",
-          "feature_title1": "Interactive cost view",
-          "feature_subtitle1": "",
-          "feature_text1": "Interactively build cost views and zoom in/out to get the detailed costs ",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "bar-chart-o",
-              "family": "FontAwesome",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title2": "Real-time view",
-          "feature_subtitle2": "",
-          "feature_text2": "Get a real time view of costs in single view across all the resources.&nbsp;<br>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "clock",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media": {
-            "image": {
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/cost-view-index-page.png",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "action-view-quilt",
-              "family": "Material-Design-Icons",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title4": "Segmentation",
-          "feature_subtitle4": "",
-          "feature_text4": "Slice and dice your cost interactively by grouping resources at multiple levels.",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "growing-chart",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "feature_title5": "Cost Projections",
-          "feature_subtitle5": "",
-          "feature_text5": "Get cost projections for the entire month based on the current usage pattern",
-          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 36px;\" code-editable-id=\"29\">Cost Analyzer</h3>\n\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"30\">Interactively build your cost perspective</small>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <div class=\"icon-features\">\n        <div class=\"features6-container container\">\n            <div class=\"features-left col-xl-4\">\n\n                <div class=\"features-box\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"31\">Interactive cost view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"32\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"33\">Interactively build cost views and zoom in/out to get the detailed costs </p>\n\n                    </div>\n\n                    <div class=\"icon-right\"><span class=\"fa fa-bar-chart-o mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n                <div class=\"features-box last\">\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"34\">Real-time view</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"35\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"36\">Get a real time view of costs in a single view across all the resources.&nbsp;<br></p>\n\n                    </div>\n                    <div class=\"icon-right\"><span class=\"mbri-clock mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                </div>\n\n            </div>\n\n\n            <div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/cost-view-index-page.png\" class=\"central-image\"></div>\n\n\n            <div class=\"features-right col-xl-4\">\n\n                <div class=\"features-box\">\n\n                    <div class=\"icon-left\"><span class=\"mdi-action-view-quilt mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"37\">Segmentation</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"38\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"39\">Slice and dice your cost interactively by grouping resources at multiple levels.</p>\n\n                    </div>\n                </div>\n\n                <div class=\"features-box last\">\n\n                    <div class=\"icon-left\"><span class=\"mbri-growing-chart mbr-iconfont-features6\" style=\"color: rgb(192, 163, 117);\"></span></div>\n\n                    <div class=\"content\">\n\n                        <div class=\"feature-title mbr-editable-content\" code-editable-id=\"40\">Cost Projections</div>\n\n                        <small class=\"feature-subtitle mbr-editable-content\" code-editable-id=\"41\"></small>\n\n                        <p class=\"description mbr-editable-content\" code-editable-id=\"42\">Get cost projections for the entire month based on the current usage pattern<br><br><br></p>\n\n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section-btn text-center\" align=\"center\"><a class=\"btn mbr-editable-button btn-black\" href=\"Feature-cost-analyzer.html\" code-editable-id=\"43\">Learn More</a></div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n.feature-title, .description {\n\tcolor: #232323;\n}\n.feature-subtitle {\n\tcolor: #8c8c8c;\n}\n.mbr-section-title {\n\tcolor: #121f43;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "extFeatures8-du"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#121f43",
-              "font-size": "36px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-dv",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "More Product Features",
-          "meta": ""
-        },
-        {
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures5",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#e6e6e6 !important"
-            },
-            ".wraper": {
-              "border-color": "#e6e6e6 !important"
-            }
-          },
-          "_anchor": "extFeatures5-dw",
-          "_params": {
-            "iconsBgColor": "#e6e6e6",
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "showImages": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "search",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#e6e6e6",
-              "newWindow": false
-            }
-          },
-          "title1": "Insights",
-          "subtitle1": "Save costs with insights",
-          "caption1": "Totalcloud's recommendation engine provides key insights to reduce your AWS costs. No need to worry about the under utilized or unused resources",
-          "button1": "<a data-app-btn=\"true\" href=\"Feature- Automation.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "check",
-              "family": "iconsMind",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#e6e6e6",
-              "newWindow": false
-            }
-          },
-          "title2": "Security Compliance",
-          "subtitle2": "Secure your cloud with compliance checks",
-          "caption2": "Secure your cloud infrastructure with continuous monitoring of violations. Mitigate all your security threats",
-          "button2": "<a data-app-btn=\"true\" href=\"Feature- Security- Compliance.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "tools-2",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#e6e6e6",
-              "newWindow": false
-            }
-          },
-          "title3": "Operations",
-          "subtitle3": "Interactively act on resources",
-          "caption3": "Single platform to analyze the cloud resources and take action immediately right there. Reduce the overall debugging and operation time.",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "setting",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#e6e6e6",
-              "newWindow": false
-            }
-          },
-          "title4": "Automation",
-          "subtitle4": "Automate mundane tasks",
-          "caption4": "Automate all cloud operations, save cost, time and reduce scripting errors. "
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box4",
-          "_styles": {
-            "SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "extMsg-box4-dx",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgText": "",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#5e5546",
-            "bgTextSize": "100",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/rajanishdodamani/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader11_bg_2.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "title": "Get started with a free account",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"download.html\" data-toolbar=\"-mbrBtnMove\">Download Now</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-dy",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Totalcloud Inc."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-dz",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3d3d",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 415-527-0866",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "TotalCloud Inc,<br>340 S LEMON AVE #3207<br>WALNUT , CA 91789",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">\tcloud@totalcloud.io</a>",
-          "title1": "Support",
-          "text5": "<li><a class=\"text-white\" href=\"terms.html\">Terms</a></li><li><a class=\"text-white\" href=\"terms.html\">Privacy</a></li><br>",
-          "text6": "<strong>Resources</strong><br><br><a href=\"FAQ.html\">FAQ's</a><br><br><a href=\"https://twitter.com/Totalcloudio\">Twitter</a><br><br><a href=\"https://www.facebook.com/Totalcloudio/\">Facebook</a><br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "pradip.mj@gmail.com",
-            "alerts": {
-              "success": "Thank you for contacting us. We will get back to you shortly"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "social-buttons1-e0",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "Share !"
         }
       ]
     }

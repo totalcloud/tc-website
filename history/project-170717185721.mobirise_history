@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "download.html",
+    "currentPage": "index.html",
     "name": "totalcloud",
     "theme": {
       "name": "mobirise3",
@@ -2865,6 +2865,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features1-ai",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -2972,12 +2977,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/logo-2.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"309\">Microsoft Windows</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"310\"></h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"311\">Supports Windows 7 and above versions</p>\n                        <div class=\"card-btn\"><a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_win_x86_64.zip\" onclick=\"ga('send','event', 'Download_Win','click','downloads');\" ;=\"\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"312\">Download</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/images.jpeg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"313\"><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Macintosh</span><br></h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"314\"></h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"315\">All versions of Mac OS</p>\n                        <div class=\"card-btn\"><a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_mac_x86_64.zip\" onclick=\"ga('send','event', 'Download_Mac','click','downloads');\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"316\">Download</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/linux-icon.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"317\"><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Linux</span><br></h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"318\"></h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"319\">All distributions of Linux OS</p>\n                        <div class=\"card-btn\"><a href=\"https://s3.amazonaws.com/totalcloud-production/deploy/latest_linux_x86_64.tar.gz\" onclick=\"ga('send','event', 'Download_Lin','click','downloads');\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"320\">Download</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".striped .mbr-cards-col:nth-child(2n+1) {\n\tbackground-color: #2e2e2e;\n}\n",
-          "_customTemplate": true
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -6174,14 +6174,14 @@
           "description1": "More details",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label2": "",
-          "title2": "Free",
+          "label2": "<b>Free!</b>",
+          "title2": "BASIC",
           "subtitle2": "",
           "currency2": "$",
           "price2": "0",
           "period2": "/mo.",
           "description2": "No additional cost<br><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Topology View, Cost Analyzer, <span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Contextual Monitoring</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">AWS spend less than $5000/month</li><li class=\"list-group-item\">Single User</li><li class=\"list-group-item\">Cost Analyzer, Contextual Monitoring</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Support- Email &amp; Chat</span></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"download.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Download Now</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
